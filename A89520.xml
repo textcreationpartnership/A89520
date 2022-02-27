@@ -1,0 +1,2529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An argument or, debate in law: of the great question concerning the militia; as it is now settled by ordinance of both the Houses of Parliament. By which, it is endeavoured, to prove the legalitie of it, and to make it warrantable by the fundamentall laws of the land. In which, answer is also given to all objections that do arise, either directly, or collaterally concerning the same. All which is referred to the judicious reader. by J.M. C.L.</title>
+            <author>Marsh, John, 1612-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 141 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89520</idno>
+            <idno type="STC">Wing M575</idno>
+            <idno type="STC">Thomason E119_13</idno>
+            <idno type="STC">ESTC R18112</idno>
+            <idno type="EEBO-CITATION">99860349</idno>
+            <idno type="PROQUEST">99860349</idno>
+            <idno type="VID">112469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112469)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An argument or, debate in law: of the great question concerning the militia; as it is now settled by ordinance of both the Houses of Parliament. By which, it is endeavoured, to prove the legalitie of it, and to make it warrantable by the fundamentall laws of the land. In which, answer is also given to all objections that do arise, either directly, or collaterally concerning the same. All which is referred to the judicious reader. by J.M. C.L.</title>
+                  <author>Marsh, John, 1612-1657.</author>
+                  <author>Milton, John, 1608-1674, attributed name.</author>
+               </titleStmt>
+               <extent>[4], 43, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Paine, and M. Simmons, for Tho. Vnderhill, at the Bible in Wood-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.M. = John Marsh.</note>
+                  <note>Sometimes erroneously attributed to John Milton.</note>
+                  <note>Variant: imprint reads Mat. Simmons instead of M. Simmons.</note>
+                  <note>Annotation on Thomason copy: "Sep: 30"; J.M. C.L. expanded to "J. Marsh C. Lincoln's Inn".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112469:1"/>
+            <pb facs="tcp:112469:1" rendition="simple:additions"/>
+            <p> AN ARGUMENT OR, DEBATE IN LAW: OF THE GREAT QVESTION CONCERNING
+THE <hi>MILITIA;</hi> As it is now ſettled by ORDINANCE of both the HOUSES of
+PARLIAMENT. By which, it is endeavoured, to prove the Legalitie of it, and to
+make it warrantable by the fundamentall Laws of the Land. In which, Anſwer is
+alſo given to all Objections that do ariſe, either directly, or
+collaterally concerning the ſame. All which is referred to the judicious
+Reader.</p>
+            <p>By <hi>J. Marsh</hi> C. L.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Paine,</hi> and <hi>M.
+Simmons,</hi> for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill,</hi> at the <hi>Bible</hi> in
+<hi>Wood-ſtreet,</hi> 1642.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:112469:2"/>
+            <pb facs="tcp:112469:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which I framed for my own pri<g ref="char:EOLhyphen"/>vate ſatisfaction onely, in
+theſe diſtract<g ref="char:EOLhyphen"/>ed times, in which every man (that re<g ref="char:EOLhyphen"/>ſolves not to
+ſtand Neuter) ought to have his conſcience poyſed by good grounds and
+principles, l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt that it ſuffer
+ſhipwrack in the concluſion; I do here (though unwillingly) pre<g ref="char:EOLhyphen"/>ſent to
+the publique view; in which weak and poore indeavour, I have borrowed ſome of
+the Parliaments grounds to exſpatiate my ſelf upon, that I might the better
+convince thy iudgement, and mine own: but the greater part are mine; which I
+hope will not blaſt the reſt, nor make it unfruitfull to thee; but rather
+more fully inform, ſatisfie and convince thee of the truth of the Parliaments
+aſſertions: and to this end I have not uſed any affected ſtyle, but
+have (to the ut<g ref="char:EOLhyphen"/>moſt of my endeavour) inveſted the Law with its own
+plainneſſe and integrity: for I have alwayes raiſed this concluſion to
+my ſelf, that where I look for <pb facs="tcp:112469:3"/> words, there I expect leaſt
+Law, which is confirmed unto thee, as a truth, in theſe dayes. Now Reader,
+ſhortly to conclude this, (for the Work doth not de<g ref="char:EOLhyphen"/>ſerve a Preface or
+Epiſtle) if happily there may be any thing in it, that may merit thy more
+ſerious conſide<g ref="char:EOLhyphen"/>ration, and make thee a true Subiect to the King, by being
+faithfull to the Parliament; I ſhall expect no greater areward of my labour,
+then that, confidently beleeving that the iſſue of it will be, thine, and
+my happineſſe, Farewell.</p>
+            <closer>
+               <signed>Thine to love and ſerve thee, <hi>J.
+Marsh.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112469:3"/>
+            <head>AN ARGVMENT IN MAINTENANCE OF THE <hi>MILITIA,</hi> Setled by
+ORDINANCE of PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He generall Queſtion is but ſhortly this; <hi>Whether
+the</hi> Militia, <hi>as it is now ſetled by both the Houſes of
+Par<g ref="char:EOLhyphen"/>liament, be warrantable by Law, or not?</hi>
+            </p>
+            <p>The Caſe, with the Circumſtances, upon which this generall
+Queſtion is ſtated, depends upon theſe two <hi>Quaeres:</hi>
+            </p>
+            <list>
+               <item>1. <hi>Whether the</hi> King <hi>by his Prerogative hath the
+ſole and onely power of ordering and diſpoſing of the</hi> Militia <hi>of
+his Kingdome or not?</hi> Admitting that he hath: then the next and maine
+ſcruple is:</item>
+               <item> 2. <hi>Whether both the Houſes of Parliament, in time of
+imminent danger,</hi> (the King refuſing to ſettle the <hi>Militia</hi> for
+the defence and ſecuritie of his people) <hi>may by an Ordinance of
+Parliament, without his Majeſties conſent, ſettle the</hi> Militia,
+<hi>and put the Kingdome into a poſture of defence or not?</hi>
+               </item>
+            </list>
+            <p n="1">1. For the firſt point, I conceive very clearly, that the
+King by his Prerogative, warrantable by the Lawes of the Land, performing the
+truſt repoſed in him, hath the onely power of diſpoſing of the
+<hi>Militia</hi> of this Kingdome; and therefore I ſhall not debate this,
+ſo much out of ſcruple or doubt, as to give ſatisfaction to the
+unlearned; and I ſhall prove it in reaſon thus: The King is <hi>Caput
+Reipublicae, &amp; pater patriae,</hi> that is, the head of the Common-wealth,
+and Father of his Countrey; <pb n="2" facs="tcp:112469:4"/> and hath this great truſt
+committed to him by God, and his people, of governing of them in peace and
+happineſſe, by maintaining and defend<g ref="char:EOLhyphen"/>ing of their Religion, Lawes, and
+Liberties; which, that he may be the more obliged to doe, he taketh a ſolemne
+Oath at his Coronation, that he will doe and performe this, according to the
+truſt repoſed in him; the due execution whereof, being of ſo high
+conſequence to this King<g ref="char:EOLhyphen"/>dome, and of ſo great difficultie to himſelfe,
+and therefore not to be executed without great care, circumſpection, and
+trouble; the Lawes and Conſtitutions of this Realme, hath in favour and ayde
+of his Maje<g ref="char:EOLhyphen"/>ſtie (who is intended alwayes to be imployed and negotiated
+<hi>Cirea ar<g ref="char:EOLhyphen"/>dua regni,</hi> about the high things of the Kingdome) allowed
+unto him, many prerogatives, priviledges, and exemptions, above all his
+Subjects. Among which, I take this in our Caſe to be one; for as our
+Religion, Lawes, and Liberties, are committed in truſt to the King, ſo are
+our lives alſo: which he is bound to defend aſwell by the materall ſword,
+if oc<g ref="char:EOLhyphen"/>caſion be, as by the ſword of Juſtice, and therefore as it is well
+knowne, all proſecutions by way of Indictment againſt any man, for the
+taking away of the life of another, are at the ſuite of the King, and the
+King onely can pardon the offence, and no other. For he alone hath the charge
+of the lives of his Subjects committed to him, and this is ſuch an
+inſeperable truſt, that the King cannot grant this over to another, as it
+is reſolved in 20. <hi>H.</hi> 7. where it is ſaid,<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>H.</hi> 7. <hi>fo.</hi> 8.
+<hi>a.</hi>
+               </note> 
+               <hi>That a grant of power to pardon Fe<g ref="char:EOLhyphen"/>lons, by the King to
+another, is not good, for that it is a prerogative annexed to the Crowne, and
+cannot be ſevered:</hi> But here it is not to be underſtood that no
+prerogative of the King can be ſevered from the Crowne, for ſome may, as I
+ſhall afterwards ſhew, and that by grant of the King too: but that this
+among others, is ſuch a prerogative as cannot be ſevered, and the reaſon
+of this, is, as I conceive, for that the life of a man is of ſo high and
+puiſſant nature, that none leſſe then God, or the King, ought to have
+intereſt and power in; and though the Common-wealth looſe a member, it is
+the King onely who looſeth a Subject, and therefore the killing of a man, is
+ſaid in the Indictment to be againſt his Crowne and dignitie, and not
+againſt the Common-wealth; for though mediately it be an offence againſt
+the Common-wealth too: yet it is a more neare and immediate offence againſt
+the King: for that he is intruſted with the lives of his Subjects.</p>
+            <p>Now as the King is bound to defend his Subjects by the Law, ſo
+in like manner he is bound to defend and protect them by the Sword, if
+occaſion be, as I have ſaid before, from all danger, both of forraigne and
+domeſticke enemies. And therefore, as there is a Leigeance, that is, a
+faithfull and true obedience of the Subject due to his Soveraigne, as it is
+interpreted in the 7. <hi>Rep. Calvines caſe:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Rep. Calvins</hi>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe.</note> So there is a
+protection due from <pb n="3" facs="tcp:112469:4"/> the Soveraigne to the Subject; for he
+ought not onely <hi>regere,</hi> to rule, but alſo <hi>Protegere ſubditos
+ſuos,</hi> to protect his Subjects. So as betweene the Soveraigne and
+Subject, there is <hi>Duplex &amp; reciprocum ligamen,</hi> that is, a double
+and reciprocall bond; <hi>Quia ſicut ſubditus regi tenetur, ad
+obedien<g ref="char:EOLhyphen"/>tiam, ita Rex ſubdito tenetur ad protectionem,</hi> for as the
+Subject is bound to obey the King, ſo the King is bound to protect his
+Subject; and there<g ref="char:EOLhyphen"/>fore in 20. <hi>H.</hi> 7. it is holden, that there is a
+Liege or Leigeance betweene the King and the Subject:<note place="margin">20.
+<hi>H.</hi> 7. 8.</note> and <hi>Forteſcue cap.</hi> 13. ſaith, <hi>Rex ad
+tute<g ref="char:EOLhyphen"/>lam legis, corporum &amp; bonorum erectus est,</hi> that is, he is erected
+King, to defend the Law, the bodies, and goods of his Subjects: and in the Acts
+of Parliament of 10. <hi>R.</hi> 2. 11. <hi>R.</hi> 2. and 14. <hi>H.</hi> 8.
+&amp;c. Subjects are called <hi>Leige people.</hi>
+               <note place="margin">10.
+<hi>R.</hi> 2. <hi>ca.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 11.
+<hi>R.</hi> 2. <hi>ca.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 14.
+<hi>H.</hi> 8. <hi>ca.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> And in the Acts of Parliament of 34. <hi>H.</hi> 8. and 35.
+<hi>H.</hi> 8. &amp;c. the King is called the <hi>Liege Lord</hi> of his
+Subjects;<note place="margin">34. <hi>H.</hi> 8. <hi>ca.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 35. <hi>H.</hi> 8. <hi>ca.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and with this agreeth
+Maſter <hi>Skene</hi> in his Booke <hi>de expoſitione verborum,</hi> that
+Leigeance is the mutuall bond &amp; obligation betwixt the King and his
+Subjects, by which Subjects are called his <hi>leige Subjects,</hi> for that
+they are bound to obey and ſerve him: and he is called their <hi>Leige
+Lord,</hi> for that he ought to main<g ref="char:EOLhyphen"/>taine and defend them: Wherefore it is
+truely ſaid, that <hi>Protectio trahit ſubjectionem, &amp; ſubjectio
+protectionem,</hi> Protection draweth ſubjection, and ſubjection
+protection.</p>
+            <p>By all which it is manifeſt, as alſo by the Oath of the King,
+taken at his Coronation, lately publiſhed by the Parliament, that the King is
+bound to protect the lives &amp; liberties of his Subjects, ſo long as the
+Sub<g ref="char:EOLhyphen"/>ject is obedient to the King; for protection and leigeance are relatives,
+and have a neceſſary and reciprocall dependance the one upon the other: and
+this is the reaſon that we ſay that a man outlawed, is out of the
+pro<g ref="char:EOLhyphen"/>tection of the King; ſo that heretofore a man outlawed was ſaid to have
+<hi>Caput Lupinum,</hi> that is, a Wolfes head: ſo that any man might then
+have killed him, as <hi>Fleta</hi> ſaith,<note place="margin">
+                  <hi>Fleta.
+lib.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>cap.</hi>
+27.</note> and other old Books: becauſe that by his diſ<g ref="char:EOLhyphen"/>obedience to the
+King, he had deprived himſelfe of the benefit of the re<g ref="char:EOLhyphen"/>gall and legall
+protection. I doe not ſay, that if the King withdraw his regall protection
+from his Subjects, that his Subjects may withhold their obedience from their
+Soveraigne: yet I am certaine, that the Books before cited imply as much.
+Beſides, reaſon will arme every man thus farre, as to conclude, that the
+cauſe and ground of his obedience, is his Soveraignes protection, and
+therefore if his Soveraigne withdraw the one, he may deny the other. Againe,
+denying to protect his Subjects, is a plaine refuſall to be ruled by Law, and
+this, as <hi>Bracton</hi> ſaith, makes him a Tyrant no King, and my obedience
+is due to him, as a King, not as a Tyrant. But I paſſe this over, as a
+matter of ſo great conſequence at this time, conſidering the bad
+principles of many men, that I had ra<g ref="char:EOLhyphen"/>ther offend in withholding of my
+judgement, then in publiſhing of it.</p>
+            <p>
+               <pb n="4" facs="tcp:112469:5"/> But yet more fully, that the King is bound to
+protect his Subjects, <hi>F. N. B.</hi> is expreſſe.<note place="margin">
+                  <hi>F. N. B. fo.</hi> 232.</note> 
+               <hi>Nota,</hi> ſaith the
+Booke, that the King is bound of right by the Lawes, to defend his Subjects,
+and their goods and chattels, lands and tenements, and therefore by the Law;
+every lawfull Subject is taken to be within the protection of the King, and if
+he be put out of protection for his offence, then every man may doe with him as
+with an enemy of the King: Here note, that the Subject cannot looſe his
+prote<g ref="char:EOLhyphen"/>ction due to him by his Soveraigne, but by his owne default.</p>
+            <p>And in <hi>F. N. B. fol.</hi> 113. <hi>a.</hi> it is there
+ſaid,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. N.
+B. fo.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>13. <hi>a.</hi>
+               </note>
+that the King ought of right to ſave and defend his Realme, as well againſt
+the Sea, as againſt enemies, that it be not ſurrounded or waſted: and to
+provide remedy for it; and alſo to provide that his Subjects have their
+paſſage through<g ref="char:EOLhyphen"/>out the Realme by all high wayes in ſafeguard. And this
+is warranted by the Commiſſion of <hi>Sewers,</hi> which is directed by the
+King to Com<g ref="char:EOLhyphen"/>miſſioners, to inquire of, &amp;c. and to heare and determine
+all faults and breaches of Walls, Ditches, &amp;c. Sea-bankes, &amp;c. in the
+beginning of which Commiſſion, the fractions of the Walls, or Sea-bankes,
+is cited, and in the body of it, the King ſaith, <hi>Nos pro eo quod ratione
+dignitatis noſtrae regiae ad providendum ſalvationi regni nostri
+circumquaque ſumus a<g ref="char:EOLhyphen"/>ſtrcti, volentes in ha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> parte congruum &amp; feſtinum remedium adhiberi,
+aſſig<g ref="char:EOLhyphen"/>navimus vos, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+Here the King himſelfe ſaith expreſſely, in this Com<g ref="char:EOLhyphen"/>miſſion, that
+he is every way bound, by reaſon of his royall function, and Kingly
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffice, <hi>Providere ſalvationi
+regni ſui,</hi> that is, to provide ſafety for his Kingdome. And is the Law
+thus, that the King is bound to pro<g ref="char:EOLhyphen"/>tect and defend his Subjects, <hi>Permare,
+per terras?</hi> By the Sea, from all Pyrates and Robbers, as alſo from the
+invaſions of forraigne enemies: and by the Land, from any domeſticke
+dangers, either by inbred rebel<g ref="char:EOLhyphen"/>lions, or civill Commotions? Why then the
+Concluſion that I raiſe up<g ref="char:EOLhyphen"/>on theſe premiſſes, is but this; That it
+is conſonant and agreeable to all reaſon, that the King executing of the
+truſt repoſed in him, ſhould not be denied the means, by which he may
+reſpond that great confidence placed in him, by his owne care and fidelitie:
+and God forbid, that we ſhould requir<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the due execution of this great function, of his Majeſties part,
+and yet that we ſhould withdraw from him the meanes, by which he ſhould
+perfor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it; for if ſo, to be a
+King, would be ſarre worſe, then an Aegyptian ſervitude.</p>
+            <p>Wherefore I conceive that it ſtands with all the juſtice and
+equity in the world, that the King (who hath ſo great a charge upon him, that
+greater cannot be, by which, he, as <hi>Vicarius Dei,</hi> that is, Gods Vicar,
+as <hi>Bracton</hi> ſpeaketh, is obliged to defend the perſons and property
+of his Subjects) ſhould have all the Caſtles, Forts and ſtrong holds, and
+all the Ports and Havens at his rule and diſpoſition, and that generally 
+<pb n="5" facs="tcp:112469:5"/> he ſhould have the ordering of the <hi>Militia</hi>
+throughout the Realm: ſo that by this means he may be inabled to diſcharge
+that great truſt that is committed to him (without which he cannot be) and at
+the laſt to render a juſt account to God, of his Stewardſhip.</p>
+            <p>And this certainly <hi>Bracton li.</hi> 2. <hi>de acquirendo rerum
+dominio,</hi> intends, when he ſaith,<note place="margin">
+                  <hi>Bract. l.</hi> 2.
+<hi>c.</hi> 2</note> that the King, <hi>Habet ea quae ſunt pacis, ut populus
+ſibi tra<g ref="char:EOLhyphen"/>ditus, in pace ſileat &amp; quieſcat, &amp;c.</hi> that is, he
+hath thoſe things, which belong to peace, that he may govern his people
+committed to his charge in peace and quietneſſe. For as the King hath
+<hi>ordinariam juriſdictionem,</hi> that is, ordinary juriſdiction, as
+<hi>Bracton</hi> ſaith before, and this to govern his Subjects according to
+Law and right: ſo, <hi>Habet ea quae pacis ſunt;</hi> that is, not onely
+the Law to maintain peace among his Subjects: but alſo, <hi>Ea quae belli
+ſunt,</hi> all thoſe things, which conduce to the protecting and defending
+of his Subjects from any forrein invaſion, or domeſticke danger, or
+otherwiſe he could not poſſibly maintain peace according to the ſaying
+of <hi>Bracton,</hi> and as by his Oath he is bound.</p>
+            <p>The King by the Law hath this Prerogative allowed unto him, that
+he onely may proclaime warre, and he onely can eſtabliſh peace among his
+people, as the 7. <hi>Rep.</hi> is:<note place="margin">7. <hi>Rep. fo.</hi>
+25.</note> why then I argue thus, It is a greater pre<g ref="char:EOLhyphen"/>rogative to have power to
+proclaim warre: then it is, to have the onely means to maintain it: and
+therefore it is not to be conceived, that the Law, that would allow the King
+the greater power, would deny him the leſſe. For, <hi>Qui majora concedit,
+minora non denegabit:</hi> He that grant<g ref="char:EOLhyphen"/>eth the greater, will not deny the
+leſſe. Again, to allow the King power to proclaime warre, and to deny him
+the means to maintain warre, were abſurd, and the Law will not admit of any
+abſurditie. Wherefore I conceive, for theſe reaſons alſo, that the King
+by the Law, hath likewiſe this prerogative of the ſole ordering and
+diſpoſing of the <hi>Militia</hi> of the Kingdom.</p>
+            <p>Now to conclude this point, I ſhall paralell this caſe, to one
+caſe onely in the Law, and that is to <hi>Mittons</hi> caſe in the 4.
+<hi>Rep.</hi> where the caſe is thus:<note place="margin">4. <hi>Rep. fo.</hi>
+3<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Mittons caſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note> Queen <hi>Elizabeth</hi> by
+her Letters Patents under the great Seal, granted the Office of the Clerk of
+the County Court, of the Coun<g ref="char:EOLhyphen"/>ty of Somerſet, to <hi>Mitton,</hi> with all
+Fees, &amp;c. for terme of his life: and after the Queen conſtituted
+<hi>Arthur Hopton</hi> Eſquire, Sheriffe of the ſame County, who
+interrupted <hi>Mitton,</hi> claiming this Office, as incident to his Office of
+Sheriffe, and upon this he appointed a Clerk himſelf of the County Court; and
+here the ſole queſtion was, whether this grant by the Queen, were good, or
+not? And it was adjudged upon ſolemne de<g ref="char:EOLhyphen"/>bate, that it was not, and the
+principall reaſon given wherefore the grant was nought, was, becauſe that
+great inconveniences might follow to Sheriffes, who are great and ancient
+Officers and Miniſters of Juſtice, <pb n="6" facs="tcp:112469:6"/> if ſuch grants
+ſhould be of validity, for that there is great truſt repoſed in them, for
+which they are reſponſible, as it is there ſaid: whereupon it is
+concluded, that Law, and reaſon requires, that Sheriffes who are publick
+Officers and Miniſters of juſtice, and who have an office of ſo great
+eminencie, confidence, perill and charge, that they ought to have all rights
+appertaining to their office. And in this caſe there is ci<g ref="char:EOLhyphen"/>ted another
+caſe, to this purpoſe, <hi>Mich.</hi> 39. <hi>&amp;</hi> 40. of the Queen
+reſol<g ref="char:EOLhyphen"/>ved by all the Judges of <hi>England,</hi> as my Lord <hi>Coke</hi>
+ſaith, that the grants of the cuſtodies of Goales, of the Counties, either
+by King <hi>H.</hi> 8. or af<g ref="char:EOLhyphen"/>terwards, were utterly void: and the like reaſon
+is given in this caſe, as in <hi>Mittons</hi> caſe: for that cuſtodies of
+Goales belong to the office of Sheriffe, who being immediate Officer to the
+Courts of the King, muſt anſwer for eſcapes, and ſhall be ſubject to
+amerciaments, if he hath not the body in Court upon proceſſe to him
+directed, &amp;c. and therefore it is reaſon, that he ſhould put in ſuch
+keepers of the ſaid Goals; for whom he ſhould anſwer, according to the
+purvieu of the Act of 14. <hi>E.</hi> 3.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. <hi>E.</hi> 3. <hi>c.</hi> 10.</note>
+For otherwiſe againſt the rule of reaſon and equitie, <hi>Alius offendet,
+alius ple<g ref="char:EOLhyphen"/>ctitur:</hi> that is, one man ſhould offend, another ſhould be
+puniſhed. Now if the Law be thus, in theſe caſes, that you ſhall not
+take away theſe of<g ref="char:EOLhyphen"/>fices from the Sheriffe, who is an Officer of truſt, and
+onely chargeable for any miſdemeanor, in the executing of the ſame; for
+that by this means, you ſhould diſable him to execute his Office, according
+to the confidence repoſed in him, and yet ſhould puniſh him for the not
+doing of his duty; which ſhould be againſt all reaſon: <hi>à
+
+fortiori,</hi> I ſay in this caſe, you ſhall not deny the King, who hath
+the greateſt Office of truſt, and charge, that can be, the means and way to
+perform this truſt, and to undergo this charge, which cannot be otherwiſe
+done, then by al<g ref="char:EOLhyphen"/>lowing of the King this prerogative (ſo long as he doth
+perform the truſt that runs along with it) of having the ſole diſpoſing
+and ordering of the <hi>Militia</hi> of his Kingdom.</p>
+            <p>And without queſtion <hi>Bracton</hi> when he ſaith, that the
+King hath <hi>Gladium materiale,</hi> that is, the materiall ſword, can
+intend nothing elſe by this, but <hi>Gladium belli,</hi> which is the
+<hi>Militia,</hi> and <hi>gladium</hi> by a Sy<g ref="char:EOLhyphen"/>necdoche, may well comprehend
+and be ſet <hi>pro omnibus rebus militita<g ref="char:EOLhyphen"/>ribus,</hi> that is, for all things
+military; And it is uſuall in holy Writ, when God threatens the heavy
+judgement of warre upon any Nation, to do it under the notion and
+expreſſion of a ſword, by this intending, <hi>Bellum,</hi> that is,
+warre, with all its ſad effects. Wherefore I conclude this point, that the
+King hath this prerogative allowed unto him by the Law: for theſe preceding
+reaſons. 1. For that it were inconvenient for the King, who by the Law is
+bound to protect and defend his ſubjects, if he ſhould not have this power.
+2. For that the Law hath given unto <pb n="7" facs="tcp:112469:6"/> him a greater
+prerogatiue, and therefore will not deny him the leſſe: and thirdly and
+laſtly, for that it would be abſurd, that the King ſhould have power to
+proclaime warre, but not to maintain it.</p>
+            <p n="2">
+               <note place="margin">Second part.</note>For the ſecond
+queſtion, which is, as I conceive, much more difficult, then the former, and
+which is the great doubt and dilemma of the time, which is but thus: whether
+the two Houſes of Parliament, the King<g ref="char:EOLhyphen"/>dom being in imminent danger, and the
+King refuſing to put it into a poſture of defence, may by their Ordinance,
+without the conſent of the King, ſettle the <hi>Militia,</hi> and put the
+Kingdom into a poſture of defence, or not?</p>
+            <p>And I do conceive, under favour, in ſome clearneſſe, that
+they may, and that in ſo doing, they have done no more then what is
+warrantable by the Law. And this I ground in the firſt place upon the
+imminent dan<g ref="char:EOLhyphen"/>ger, and extreame neceſſity, that the kingdom is in: and
+therefore though it ſhould be admitted, that they could not do it, at another
+time, yet I conceive that by reaſon of the neceſſity, it is warranted by
+the Law for them to do it at this time.</p>
+            <p>It is a rule in our Law, firſt cited in <hi>Bracton,</hi>
+               <note place="margin">
+                  <hi>Bract. fo.</hi> 247 a.</note> and remembred in the 10.
+<hi>Rep.</hi>
+               <note place="margin">10. <hi>Rep. fo.</hi> 61. a.</note> that
+<hi>illud quod alias licitum non eſt, neceſſitas facit licitum, &amp;
+ne<g ref="char:EOLhyphen"/>ceſſitas inducit privilegium, quod jure privatur.</hi> In time of
+neceſſitie, ille<g ref="char:EOLhyphen"/>gall acts, are made legall: and things utterly againſt
+Law, juſtifiable; Upon this rule I might multiply caſes, but becauſe I do
+not affect, <hi>via trita obambulare,</hi> to go in the common road, therefore
+I ſhall onely put ſome of the moſt materiall caſes, which I find to
+this purpoſe, and the others I ſhall omit.</p>
+            <p>In <hi>Pl. Com.</hi> it is ſaid,<note place="margin">
+                  <hi>Pl. Com.
+fo.</hi> 13. b.</note> that when Laws or Statutes are made, yet there are
+ſome things, which are excepted, and forſepriſed out of the provi<g ref="char:EOLhyphen"/>ſion
+of them, by the Law of reaſon, though that they are not expreſſed by
+words. As breaking of a priſon is Felony in a priſoner himſelf by the
+Statute <hi>De frangentibus priſonam:</hi> yet if the priſon be burnt, and
+they which are in, break the priſon for ſalvation of their lives, this
+ſhall be excuſed by the Law of reaſon, and yet the words of the Statute
+are againſt it.</p>
+            <p>And 14. <hi>H.</hi> 7. Jurors who were ſworn upon the
+iſſue,<note place="margin">14. <hi>H.</hi> 7. <hi>fo.</hi> 29</note> and by
+the Law ought not to depart, untill they are agreed of their Verdict, for fear
+of a great tempeſt departed, and ſevered themſelves: and it was there
+held that they ſhould not be amerced, and that their verdict after<g ref="char:EOLhyphen"/>wards was
+good. And this was thus holden (ſaith the book) for the neceſſity of the
+chance; but otherwiſe they ſhould have been grievouſly puniſhed. So by
+the Law, for the ſalvation of my own life, I may kill another. And as the Law
+makes that lawfull, in caſe of neceſſity, which otherwiſe would not be
+lawfull, when it concerns any mans private: <pb n="8" facs="tcp:112469:7"/> ſo
+<hi>à fortiori,</hi> when it concerneth the Common-weal, and therefore
+as the book is in 29. <hi>H.</hi> 8. <hi>Dyer,</hi>
+               <note place="margin">29.
+<hi>H.</hi> 8 <hi>Dyer. fo.</hi> 36. b. 8. <hi>E</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. 23. <hi>Br Cu<g ref="char:EOLhyphen"/>ſtome</hi>
+45.</note> a man may juſtifie the making of Bul<g ref="char:EOLhyphen"/>warks, in another mans
+ſoyl, without licence; and the razing of a houſe which burns, for
+ſafeguard of the houſes of the neighbours. So it is if the Sheriffe
+purſue a Felon to a houſe, and for to have the Felon, he breaketh the doore
+of the houſe, this is juſtifiable. So in 13. <hi>H.</hi> 8.<note place="margin">13. <hi>H.</hi> 8. 16. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>E.</hi> 4. 35 b.</note> the inhabitants of a Citie in time of
+warre, if they conceive that the Sub<g ref="char:EOLhyphen"/>urbs may endanger the taking thereof, may
+lawfully burn or deſtroy the ſuburbs, for the Towns or Cities
+preſervation, and the common ſafetie. And in theſe caſes,
+neceſſity, and the good of the republick, ma<g ref="char:EOLhyphen"/>keth that lawfull, which
+otherwiſe would not be lawfull.</p>
+            <p>It is a certain rule, that all Laws ought to receive an equitable
+and favourable conſtruction, according as opportunitie and the neceſſity
+of the caſe, adminiſters occaſion: for, <hi>Summum jus, eſt ſumma
+injuria:</hi> that is, over-ſtrict obſervance of the Law, may ſometimes
+be unlawfull. And <hi>à fortiori,</hi> they ſhall receive ſuch a
+conſtruction, where it concerns the Common-wealth: and accordingly the Judges
+in all ages, as they ought, ſo they have alwayes made ſuch interpretation
+and declaration of the Laws, that the Common-wealth ſhould not be prejudiced.
+And this is the reaſon of theſe caſes, which have been often adjudged,
+that if a man bind himſelf, that he will not exerciſe his trade, or that he
+will not manure his land, or that he will not marry, that the Obligation in
+theſe caſes is void, for that it is againſt the weal publike.</p>
+            <p>And this is the reaſon alſo, that hath made the Judges alwayes
+to ad<g ref="char:EOLhyphen"/>judge all the Grants of the King, of Monopolies, or Impoſitions upon
+the Subject, without Act of Parliament, to be againſt the Law, for that they
+were againſt the good of the Common-wealth, and libertie of the Subject. 
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.
+<hi>H.</hi> 3. <hi>ca.</hi> 29.</note> And this is grounded upon <hi>Magna
+Charta,</hi> which ſaith, <hi>Quod nullus libor, homo, &amp;c.</hi> that no
+free-man ſhall be taken and impriſoned, or be diſſeiſed of his
+Free-hold or liberties, but by lawfull judgement of his Peers, or by the Law of
+the land.</p>
+            <p>And if the Law be ſuch, that the King by ſuch grants, which
+are againſt Law, and the weal publick, cannot take away my free-hold or
+livelihood from me, but that ſuch grants ſhall rather be adjudged to be
+void, (againſt the opinion of <hi>Bracton</hi> who ſaith,<note place="margin">
+                  <hi>Bract. fo.</hi> 34.
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. b. 2.</note> 
+               <hi>De chartis
+Regiis &amp; factis regum, non debent, nec poſſunt justiciarii, nec
+privatae perſonae diſtur<g ref="char:EOLhyphen"/>bare:</hi> that is, of the Kings Charters, and his
+deeds, neither Juſtices, nor private perſons, may, or ought to diſpute:
+which clearly is againſt the known and eſtabliſhed Law at this day) why
+then certainly, it will fol<g ref="char:EOLhyphen"/>low, that if the King, either by action, or
+omiſſion, go about to endan<g ref="char:EOLhyphen"/>ger the weal publick, and endeavour the
+deſtruction of it, which <hi>ex con<g ref="char:EOLhyphen"/>ſequenti,</hi> muſt of neceſſity
+bring ruine to every individuall perſon of it: <pb n="9" facs="tcp:112469:7"/> that in
+ſuch caſe, thoſe who are intruſted with the common good, (as the
+Parliament at this time is) may by all meanes poſſible, indeavour the
+preſervation of it: but I doe not here intend by violent oppoſing or
+depoſing of his ſacred Majeſtie, of which I ſhall ſpeake a word
+after<g ref="char:EOLhyphen"/>wards, but by ſetling of the Kingdome, into ſuch a ſtate and
+condition, as our ſage Parliament hath now done, that it may be able to
+defend his ſacred Perſon, and it ſelfe, againſt any forraigne or
+domeſticke ſurpriſe or invaſion.</p>
+            <p>It is a true Rule, that <hi>Intereſt Reipublicae, ne ſua re,
+quis malè utabur,</hi> a man (contrary to the opinion of the vulgar) may
+not doe with his propertie as he pleaſeth; for that the Common-wealth hath an
+intereſt peramount the propertie of any private man, and there is no Subject,
+but that, either more or leſſe, according to his Talent, or place, that God
+hath put him in, either in Church, or State, is intruſted with the common
+good: and therefore if he doth contrary to his truſt, uſe his Talent or
+place, againſt that end for which it was given unto him, he is puniſhable
+by the Law for it.</p>
+            <p>And therefore if a man will deſtroy his woods, caſt his money
+into the Sea, burne his Corn upon the Land, or in his Barnes, or the like,
+cleere<g ref="char:EOLhyphen"/>ly by the Law he is puniſhable for it: and agreeing with this
+<hi>Trin.</hi> 4<hi rend="sup">o</hi> 
+               <hi>Jac.</hi> many were indicted of a Riot in the
+Starre-chamber, for putting in of their Beaſts into Corne, claiming their
+Common there, and in this caſe, the Lord Chancellor ſaid, that though they
+had good title to the Common, yet that they ſhould be here puniſhed, for
+that they had de<g ref="char:EOLhyphen"/>ſtroyed the Corne, which is againſt the weale
+publique.</p>
+            <p>And without queſtion, the rigour of all Lawes, ought to receive
+ſuch qualification, and equitable conſtruction, that the Common-wealth doe
+not ſuffer or be indamaged. The Law was made to ſupport the com<g ref="char:EOLhyphen"/>mon good,
+and therefore that Law is againſt Law, that is againſt the common good.
+<hi>Nemo ſibi naſcitur,</hi> no man was borne for himſelfe; all men both
+Rulers and people, were borne to this end, to contribute, and conferre ſome
+good to the Republique: and therefore <hi>Qui ſibi ſolum vivit,</hi> he
+that lives to himſelfe onely, doth not live to that end, for which he was
+created, much leſſe he, which makes conſtruction of the Law againſt
+that end, for that were to deſtroy both Law, and govern<g ref="char:EOLhyphen"/>ment, which every man
+was borne to defend.</p>
+            <p>It is a Rule in the Law, that Judges ought alwayes to make ſuch
+con<g ref="char:EOLhyphen"/>ſtruction of the Deeds of men, and of their Grants, <hi>
+                  <g ref="char:V">Ʋ</g>t res magis
+valeat, quàm pereat,</hi> that is, that they ſhould rather take
+effect, then periſh: ſo I ſay, it may well be taken for a Rule, that the
+Judges ſhould not ſo con<g ref="char:EOLhyphen"/>ſtrue the Law, that the Law ſhould deſtroy
+it ſelfe, which will neceſſari<g ref="char:EOLhyphen"/>ly follow in the deſtruction of the
+Common-wealth; but that they <pb n="10" facs="tcp:112469:8"/> ſhould ſo interpret it,
+<hi>
+                  <g ref="char:V">Ʋ</g>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reſpublica magis valeat
+&amp; floreat, quàm p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reat
+&amp; deſtruatur,</hi> that the Common-wealth ſhould rather flouriſh,
+then pe<g ref="char:EOLhyphen"/>riſh, and be deſtroyed.</p>
+            <p>I agree, that in the caſe in queſtion, by the ſtrict Rule
+and Law of Pre<g ref="char:EOLhyphen"/>rogative, the governing and diſpoſing of the
+<hi>Militia</hi> of the Kingdome is onely in the King, and that he onely may
+proclaime warre, and he alone eſtabliſh peace amongſt his people: yet we
+ought not ſo t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> con<g ref="char:EOLhyphen"/>ſtrue this
+Law, that it is ſo in the King, that it cannot be ſevered from him, and
+that no other can intermeddle with it, without the conſent of the King though
+that it be for the Weale publique, and for the ſecu<g ref="char:EOLhyphen"/>ring of the Kingdome,
+being in imminent danger, the King refuſing to ſettle it, as in right he
+ought, upon the prayer of his people, repreſen<g ref="char:EOLhyphen"/>ted in the defires of the
+Parliament. For to make ſuch a conſtruction were utterly to confound, and
+deſtroy, both Law, &amp; Common wealth, as I have ſaid before, and
+therefore ought not to be admitted.</p>
+            <p>The King hath this Prerogative allowed him by the Law, that he
+ſhall not be bound by any Statute, except that he be expreſſely named in
+the Statute, yet it is reſolved in the 5. <hi>Rep.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Rep. fo.</hi> 14.
+b.</note> that all Statutes, which are made to ſuppreſſe wrong, to take
+away fraud, or to prevent the decay of Religion, ſhall binde the King, though
+he be not named in them; for, ſaith the Booke, <hi>Religion, Juſtice, and
+Truth, are the ſure Supporters of the Crownes and Diadems of Kings.</hi> So I
+ſay in this caſe, the King by his Prerogative (as I have ſaid before)
+ought to have the ſole diſpoſing of the <hi>Militia:</hi> But if in
+imminent danger, he refuſe to ſettle this for the ſafetie of himſelfe,
+and his Kingdome, according to the truſt repo<g ref="char:EOLhyphen"/>ſed in him, his Prerogative
+ought then to give way for the ſecuring of his Crowne, that thoſe who are
+intruſted with the Weale publique, as the Parliament is, may ſettle this
+for the defence of the King, and King<g ref="char:EOLhyphen"/>dome, according, as in truth, they are
+bound, as I ſhall afterwards ſhew.</p>
+            <p>It is a Rule in our Law, <hi>That the King can doe no wrong;</hi>
+and with this accords <hi>Bracton,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>acton fo.</hi> 107.</note> 
+               <hi>Nihil
+aliud poteſt Rex in terris, cum ſit Dei miniſter &amp; vicarius, niſi
+id ſolum, quod de jure poteſt, nec quod principi placet, legis habet
+vigorem,</hi> the King can doe nothing upon earth, ſeeing that he is Gods
+miniſter and Vicar, but that onely which of right he ought to doe, nei<g ref="char:EOLhyphen"/>ther
+ought the Kings will, to have the force and vigour of a Law. Here note, that
+the will of the King, ought to ſubſcribe to the Law; and not the Law to the
+will of the King.</p>
+            <p>And in <hi>Pl. Com.</hi> 1. <hi>Rep. &amp;</hi> 5. <hi>Rep.</hi>
+it is ſaid,<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.
+<hi>Com. fo.</hi> 246.</note>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Rep. fo.</hi> 44. b.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Rep. fo.</hi> 55. b.</note>
+               <hi>That the King cannot doe a wrong, neither will his Prerogative be any
+warrant to him to doe injurie to another:</hi> and if the King cannot injure
+one ſingle perſon, without que<g ref="char:EOLhyphen"/>ſtion, he cannot injure all the
+Common-wealth, which he ſhould doe in <pb n="11" facs="tcp:112469:8"/> this caſe, if
+both the Houſes of Parliament, in this time of imminent danger, the King
+refuſing to joyn with them, ſhould not have this power of ſetling the
+<hi>Militia,</hi> in defence of the Kingdome, without his con<g ref="char:EOLhyphen"/>ſent.</p>
+            <p>I agree with <hi>Bracton,</hi>
+               <note place="margin">
+                  <hi>Bracton
+fo.</hi> 5<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> that the King,
+<hi>Parem non habet in regno, nec ſuperiorem,</hi> He hath no equall, nor
+ſuperiour in his Kingdome; but that is to be underſtood, that there is no
+man above or equall with his Ma<g ref="char:EOLhyphen"/>jeſtie; for he ſaith afterwards;<note place="margin">
+                  <hi>Bracton
+fo.</hi> 3<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>Rex non
+debet eſſe ſub homine, ſed ſub Deo, &amp; ſub lege,</hi> that the
+King ought not to be under man, but under God, and under the Law: and after
+<hi>fo.</hi> 34. <hi>a,</hi> he ſaith, <hi>Rex habet ſuperiorem, Deum,
+ſcilicet, item legem, per quam factus eſt Rex, item Curiam ſuam, viz.
+Comites Barones, &amp;c.</hi> the King hath a ſuperiour, to wit, God, in like
+manner, the Law, which made him King, and alſo his Court, to wit, the Earles,
+Barons, &amp;c. which cannot be underſtood of any other, then the high Court
+of Parliament. And in the places before cited, he ſaith, <hi>Quod non est
+Rex, ubi dominatur voluntas, non Lex,</hi> He is not King, when his will rules,
+not the Law. Then if it be thus, as <hi>Bracton</hi> ſaith, that the Law, and
+the two Houſes of Parliament, are above the King: and that the King is as no
+King, when he doth not ſubmit to the Law, (which will of neceſſitie
+follow, for that the ſame Law, which made him King, injoynes and obliges him
+alſo to defend his people committed to his charge; and without doubt, the one
+as juſt as the other, and if he refuſe to protect his people, which is a
+diſpiſing, and a depreſſing of that Law which gave him this
+Soveraigntie: certainly, the Law will not de<g ref="char:EOLhyphen"/>fend him in this his tyranny) I
+conceive, that in this caſe, the Law will in its own defence, and in default
+of the King, who ought to have main<g ref="char:EOLhyphen"/>tained the Law, inable the two Houſes of
+Parliament, to put the King<g ref="char:EOLhyphen"/>dome into a poſture of warre, in defence of the
+King, his Lawes and Subjects.</p>
+            <p>But now the great Queſtion is, What, and where is the ground of
+our feares, and jealouſies, and where is the imminent danger; for, many
+ſay, that they cannot ſee it, and then it not being viſible, and obvious
+to e<g ref="char:EOLhyphen"/>very eye: a Queſtion as great in ſhew as the former, ariſes upon
+this, Who is, or may be the proper Judge of this imminent danger. To the
+firſt, I anſwer, that our feare, and the imminent danger pretended, is no
+Phantaſme or <hi>Chimerâ,</hi> as ſome would have it, but it is a
+reall and viſi<g ref="char:EOLhyphen"/>ble cauſe of feare, <hi>Et talis metus qui cadere poteſt
+in virum conſtantem,</hi> ſuch a feare, as may befall a conſtant man, as
+my Lord <hi>Cooke</hi> deſcribeth a feare,<note place="margin">
+                  <hi>Inſtit.
+fo.</hi> 253.</note> that may poſſeſſe a generous and ſettled
+ſpirit. And that it is thus, I appeale to the conſcience of any wiſe
+&amp; indifferent man, whether that the <hi>Commune incendium,</hi> the common
+fire, or calamitie in our neighbour Nation of <hi>Ireland,</hi> clothed with
+theſe three circumſtances, as I ſhall ſet it <pb n="12" facs="tcp:112469:9"/> forth,
+will not cauſe, and juſtly too, a wiſe man to feare, and doubt, what the
+event will be.</p>
+            <p>As firſt, that they are our Neighbours, and when my Neighbours
+houſe is on fire: will any man adjudge this to be a phantaſme or an
+effe<g ref="char:EOLhyphen"/>minate feare in me, to provide for the ſecuring of my perſon and
+eſtate, from periſhing in the common ruine?</p>
+            <p>Secondly, It is Religion, that theſe cruell, barbarous, and
+unheard of Tyrants, make for a ground of their horrid Rebellion: and what
+ſtron<g ref="char:EOLhyphen"/>ger ingagement can there be, then this, for to incourage and ſpurre
+men forward, in any deſperate deſigne? Eſpecially, thoſe of the
+Popiſh fa<g ref="char:EOLhyphen"/>ction, who may have a pardon before-hand, for the act they ſhall
+com<g ref="char:EOLhyphen"/>mit, be it never ſo deſperate: And doe we not thinke, that this will be
+a ſtrong incitement to men, who conceive themſelves tyed in conſcience to
+undertake that which they doe, to wade through any miſery, for the
+accompliſhment of their deſired end, knowing before-hand, that they have a
+pardon for the moſt horrid act or attempt that they can doe, con<g ref="char:EOLhyphen"/>ducing to
+the perfecting of the ſame? And then as this obligeth all Na<g ref="char:EOLhyphen"/>tions beſides,
+of the Popiſh partie, ought not we to thinke, and beleeve, that ſuch an
+opportunitie, muſt of neceſſitie, ſtimulate them forward, to be ayding
+and aſſiſting to ſuch a deſigne, which will infallibly at the laſt,
+merit either Heaven or Hell? I am confident (and it ſtands with all rea<g ref="char:EOLhyphen"/>ſon
+that it ſhould be ſo, for that they have not for a long time, pray<g ref="char:EOLhyphen"/>ſed be
+God, had the like opportunitie) that the Pope, with all his adherents, are now
+plotting, and contriving, with their holy Father the Devill, to operate the
+ruine of the Proteſtant Religion: and ſhall this ingage them to fight
+againſt God, under a pretence of being on his ſide? And ſhall it not
+invite us, who fight for God, and his truth, which we have ſo long time,
+happily &amp; peaceably through Gods good<g ref="char:EOLhyphen"/>neſſe enjoyed, to prepare our
+ſelves, and all that we have, for the deſence of the ſame? To conclude
+this, we who have the greateſt part of the world our enemies, may juſtly
+feare, that they are now plotting and contriving that for <hi>England,</hi>
+that is already acted in <hi>Ireland.</hi> And let us not ſay, that they are
+at enmitie one with another, and therefore, are not at leiſure, to harme us:
+for we may be ſure, that they will ſhake hands, to doe us a miſchiefe:
+according to that in holy Writ, of <hi>Pilate</hi> and <hi>He<g ref="char:EOLhyphen"/>rod,</hi> who
+though they were utter enemies one to another, yet they were made friends, to
+combine againſt Chriſt.<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>uke</hi> 23. 12.</note>
+            </p>
+            <p>Thirdly, and laſtly, who is able to ſay, that either he, or
+his children, ſhall live to ſee an end of that bloudy perſecution and
+rebellion, and what the ſucceſſe of it will be? True it is, that God hath
+hitherto gone forth with our Armies, and hath in an exceeding meaſure, and
+above all expectation, bleſſed their endeavours, and crowned their actions
+with <pb n="13" facs="tcp:112469:9"/> a happie ſucceſſe, God be praiſed for it, but
+yet who knoweth, whether they ſhall ever be able to root out this rebellious
+Tribe? I ſpeak not this out of any diffidence of Gods continued favour and
+goodneſſe towards us, or to make others miſtruſt; but onely to
+demonſtrate, that there is a juſt cauſe of feare; for who can divine what
+the event of warre will be: <hi>Exitus belli incertus,</hi> that is, the
+iſſue of warre is uncertain. Beſides (and which brings me to my ſecond
+ground of our juſt and dreadfull feares) if the diſtractions of this
+Kingdome continue, which God defend, what ayde can they expect from us, who are
+like to be ſurrounded with the like miſery: ſo that their neceſſitie,
+may cutt them ſhort of their hopes, and by this much adde to our feares.</p>
+            <p>Seco<g ref="char:cmbAbbrStroke">̄</g>ndly, having ſhewed our juſt cauſe of fear, which
+riſeth <hi>ab extra,</hi> from our deplorable brethren, and neighbours; now I
+ſhall ſhew, our cauſe of fear, that ariſeth <hi>ab intra:</hi> from the
+unhappy diſtractions, which are riſen amongſt our ſelves. Who is it,
+that doth not ſee, the ſad divi<g ref="char:EOLhyphen"/>ſions and generall ſidings throughout
+the Realm? which hath grown upon this unhappy diviſion of the King and
+Parliament; which when it will be reconciled, God knoweth. And if this (which
+adds much to our miſerie) had not happened, we could not before have been
+ſecure, without a juſt cauſe of fear: for what divelliſh plots, and
+fearfull de<g ref="char:EOLhyphen"/>ſignes, have been diſcovered through Gods mercy, and the
+vigilant eye of the Parliament; tending to the deſtruction of our beſt
+birth-right and inheritance, the priviledges and freedome of Parliaments?
+Without the continuance of which, that which is neareſt and deareſt unto
+thee, whether it be thy Religion, life, or liberty: what ever it be, that thou
+moſt bleſſeſt thy ſelf withall, will then depend upon the Arbitrary
+will of thy Soveraign; ſo that thou mayeſt not then, ſtile ought that God
+hath given thee, thy own: which heavy judgement I beſeech God to divert from
+this ſinfull Land and Nation; for we may truly acknow<g ref="char:EOLhyphen"/>ledge, that it were
+juſt upon us, that we who have ſo much abuſed Gods bleſſings,
+ſhould now be deprived of them: and that we, who have ſo much abuſed the
+freedome of conſcience, of our laws, lives, liberties, and eſtates,
+ſhould now be ſubjected to a perpetuall ſlavery. Now to con<g ref="char:EOLhyphen"/>clude this
+likewiſe, divide the Kingdom into foure parts, and I am con<g ref="char:EOLhyphen"/>fident, that the
+Papiſt. Newter, and Cavalier (I might adde likewiſe the domineering proud
+Clergy, who would fain reduce all things to their late condition) who lie
+perdue, and wait for an opportunitie, for to bring a ſpeedie deſtruction
+upon this Common-wealth, will make two parts, I think I might, without any
+imputation, or prejudice to judge<g ref="char:EOLhyphen"/>ment, ſay three parts of the foure, and now
+put all theſe things toge<g ref="char:EOLhyphen"/>ther, and I beleeve, that no indifferent
+underſtanding man, but will be forced to confeſſe, that there was, and
+ſtill is, a juſt cauſe of fear, and of <pb n="14" facs="tcp:112469:10"/> putting of
+the Kingdom, into a poſture of warre. And then the immi<g ref="char:EOLhyphen"/>nent danger being
+pregnant, and demonſtrable to all the world: the laſt queſtion is taken
+away.</p>
+            <p>But admitting that it were not proſpicuous, and viſible to
+all, then the queſtion is, who is the proper Judge of this imminent danger,
+and I conceive plainly, under favour, that the Parliament ought to be, and no
+other: and my firſt reaſon is grounded upon the rule of Law, <hi>viz.</hi>
+that the Parliament can do no wrong, which is warranted by the 9. <hi>Rep.</hi>
+the 6. <hi>Rep.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Rep.</hi> 106. b. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>07. a. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Rep.</hi>
+27. b. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. a.</note> and many other
+books. And in <hi>Pl. Com.</hi> it is ſaid,<note place="margin">
+                  <hi>Pl. Com.
+fo.</hi> 398</note> that the Parliament is a Court of thrice great honour and
+juſtice, of which none ought to imagine a diſhonourable thing. And this I
+con<g ref="char:EOLhyphen"/>ceive to be grounded upon the Writ of Summons to Parliament, which wils,
+that the elections ſhould be <hi>De gravioribus &amp; diſcretioribus viris,
+&amp;c.</hi> of the moſt grave and diſcreet men. And <hi>Forteſcue</hi>
+ſpeaking of the Parliament, ſaith,<note place="margin">
+                  <hi>Forteſ. ca.</hi>
+18.</note> We ought neceſſarily to think, that the Statutes of this Realm
+are made with great wiſdom and prudence, <hi>Dum non unius aut centum ſolum
+conſultorum virorum, ſed plus quam trecentorum electo<g ref="char:EOLhyphen"/>rum hominum, quali
+numero olim Senatus Romanorum regebatur, ipſa ſunt edita.</hi> For that
+they are not made by one, or an hundred onely of ſage judicious men, but by
+more then three hundred of choſen men: by ſuch a number, as in times
+paſt, the Senate of <hi>Rome</hi> was uſed to be ruled.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But here it will be objected,
+that this Ordinance is not ſetled by Par<g ref="char:EOLhyphen"/>liament, for that the King and many
+of his Nobles, were not there, nor never conſented to it; and therefore that
+we ought not to eſteeme, or account, ſome few Sciſmaticall and factious
+perſons (who ſeek their own ends, and not the common good) to be the
+Parliament: and therefore you miſtake in giving of them the Style of the
+Parliament.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> A ſtrange, unheard of, and
+illegall objection, a pretty trick and wilde to mask illegall ſlanders, under
+illegall objections. It is a wonder to hear ſuch ſtrange, and as
+unparalelld, as unwarrantable, invectives, againſt the Parliament, which are
+publiſhed in the Kings name, and under his protection, and patronage: while
+in the mean time, the King (whoſe diſtance of place, or affection, cannot
+divide from his Parlia<g ref="char:EOLhyphen"/>ment, as I ſhall afterwards ſhew) ſuffers in
+thoſe very obloquies, and diſhonourable detractions, which are coyned for
+his honorable Aſſem<g ref="char:EOLhyphen"/>bly of Parliament.</p>
+            <p>For, as all our books agree, the Parliament is as one body: and
+the chief or head of this body, is the King: and with this agreeth, <hi>Dyer,
+fo.</hi> 60. <hi>a.</hi> who ſaith,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yer fo.</hi> 60. 2.</note> that the
+Eſtate of Parliament conſiſts of three parts: <hi>viz.</hi> of the King,
+as the chief Head; and of the Lords, the chief and prin<g ref="char:EOLhyphen"/>cipall Members of the
+Body; and of the Commons, Knights, Citizens, and Burgeſſes, the inferiour
+Members: and theſe make the body of the <pb n="15" facs="tcp:112469:10"/> Parliament. Now
+if it be thus, that the King, Lords and Commons make but one body, and that the
+King is the Head of this body, as in truth the Law is: then it will thus in
+reaſon follow, that no more then you can divide the head from the naturall
+body, and yet preſerve the body alive, can you divide the King from the
+Parliament, and yet have the Parliament continue, as in truth it doth: and I
+hope that there is none ſo void of reaſon, as to think, that the Kings
+dividing of himſelf from his Parliament, (for the caſe is utterly
+miſtaken, to ſay that the Parliament, ſevers the King from them) ſhall
+deſtroy his Parliament, though I ſuppoſe, that many, who dare not bring
+their actions to the teſte, would have it ſo.</p>
+            <p>Now if it be ſo, that, notwithſtanding this unhappy
+diviſion, the Parliament doth vertually, and actually continue, (which, God
+defend it ſhould be otherwiſe, for then Parliament, and no Parliament would
+be all one) then, of neceſſity, it muſt follow, that the King, who is the
+head of this great body, is not divided in Law, though he be in diſtance, for
+if ſo it muſt needs be, that the body would be deſtroyed, for that a Body
+(as I have ſaid before) cannot ſubſiſt without a Head. And it muſt
+likewiſe follow, that they uſurp no honour or power to themſelves, more
+then by the Law is due, to ſtile themſelves the Parliament. And therefore
+whatſoever imputations, or diſhonourable invectives (things too common in
+the mouthes of many, who have not common reaſon, much leſſe Law, to
+diſcover a truth) are impoſed and caſt upon the two Houſes of
+Parliament, reflect upon the honour of the King, and are a great ſtain and
+blemiſh to it.</p>
+            <p>Then if it be thus, that the Parliament, in judgement of Law, can
+do no wrong, and that no diſhonorable thing ought to be imagined of them;
+certainly, they are the moſt proper Judges of this imminent dan<g ref="char:EOLhyphen"/>ger. But to
+this it will be objected that the King likewiſe, in judgement of Law, can do
+no wrong, and therefore he notwithſtanding this rea<g ref="char:EOLhyphen"/>ſon, may be as proper a
+Judge of the imminent danger, as any one, and upon this ground his judgement
+ought rather to be received then the judgement of any, yea of the Parliament it
+ſelf; &amp; he tels us, that there is no imminent danger, what then meanes
+this great contention about the <hi>Militia?</hi> To this I anſwer, that it
+is true, the rule of Law likewiſe is, <hi>That the King can doe no
+wrong;</hi> but the reaſon of this is, for that it is preſumed, that what
+the King doth, he doth upon the advice, &amp; ſeduce<g ref="char:EOLhyphen"/>ment of evill
+Counſellors, who with a ſpetious ſhew, pretend nothing more then the good
+of the Common-wealth; whereas, in truth, they in<g ref="char:EOLhyphen"/>tend nothing leſſe. And
+hath it not been frequent, for Kings, ſeduced by wicked and malignant
+Counſellors, to do thoſe things which have been a diſhonour to
+themſelves, and a great <hi>gravamen</hi> and prejudice to 
+<pb n="16" facs="tcp:112469:11"/> the publique: and if ſo, my concluſion is, that I
+would as willing a man ſhould doe me injury, upon his owne principles, as by
+the advice of o<g ref="char:EOLhyphen"/>thers; for though happily the wrong may not be ſo great, as
+to him<g ref="char:EOLhyphen"/>ſelfe, yet the damage is all one to me. But now on the other ſide,
+who can tell, or what Story is able to relate, that ever a Parliament did doe
+that thing, that was prejudiciall to the Common-wealth? Why then if this
+poſition hold true, <hi>That Kings ſeduced, may injure the Common-wealth,
+but that Parliaments cannot:</hi> I conclude, notwithſtanding this objection,
+that the Parliament, for this reaſon, are the moſt proper Judges of this
+imminent danger.</p>
+            <p>Againe, they are the moſt proper Judges of an imminent danger,
+who in probabilitie may have the beſt cogniſance, and information of it:
+but the Parliament (which is the repreſentative body of the whole Realme, and
+the eyes of all the Kingdome) muſt of neceſſitie have the beſt
+cogniſance and information of any imminent and approaching danger:
+<hi>Ergo,</hi> they are the beſt and moſt competent Judges of it.</p>
+            <p>Laſt of all, the Parliament are the moſt proper Judges of an
+immi<g ref="char:EOLhyphen"/>nent danger; for that they are thoſe, whom the Common-wealth hath
+intruſted with its future happineſſe, they are our Judges, thoſe
+whoſe judgement we have bound our ſelves by our owne free Election, to
+ſtand to, and therefore we cannot now recede from it, or ſee with other
+eyes then they ſee; if they ſay, that they ſee an imminent and
+approaching danger, we ought not to ſay, that there is no ſuch matter; and
+if they ſay, that the <hi>Militia</hi> is well and legally ſettled, we
+cannot, nor ought not to ſay, that it is againſt the Law; for that our
+judgement is bound up in, and ſuperſeded by theirs. But to this it will be
+ſaid, that this were a kinde of implicite faith, or if I may ſo ſpeake, a
+kinde of Hereſie in Law; for a man to be tide to ſubſcribe to other mens
+judgements, and to beleeve that whatſoever they doe, is lawfull: To this I
+anſwer ſhortly, that there is a great difference, between a
+ſubſcription of com<g ref="char:EOLhyphen"/>pulſion, and a ſubſcription of conſent; for
+<hi>volenti non fit injuria,</hi> that is, he that co<g ref="char:cmbAbbrStroke">̄</g>ſents to the doing of a
+thing, is not injured by the thing done. Againe, the Parliament would not have
+us to pinne our faith upon their judgements, to beleeve without reaſon; for,
+as it is well knowne, they have publiſhed the juſtice and integritie of
+their cauſe, to the whole world, and have left their proceedings to the
+judgement and determina<g ref="char:EOLhyphen"/>tion of every private conſcience; ſo that cleerely
+this objection holds not.</p>
+            <p>Then if the judgement of Parliament, be our judgement; what elſe
+doe they then oppoſe their own judgement, who dare oppoſe the judgement of
+Parliament, which is folly? and what elſe doe they but preferre their proper
+and private judgement, before the judgement of the whole Par<g ref="char:EOLhyphen"/>liament? 
+<pb n="17" facs="tcp:112469:11"/> which is an extreame inſolency; for that they
+repreſent the whole Kingdome: and are the moſt worthy part of it, and for
+that, we have, as I have ſaid before, bound our ſelves by our owne
+conſent and election, to ſtand to their judgement and determination.
+Wherefore, for all theſe preceding reaſons, I conclude this point, that
+admitting the imminent danger were not perſpicuous and manifeſt to every
+eye, that the Parliament as they are the moſt proper Judges, ſo they ought
+to be the onely Judges of it, and no other perſon whatſoever.</p>
+            <p>Now for the Objection, that many of the Lords and Commons, did
+never conſent to the Ordinance of Parliament, for that they were with his
+Majeſtie, and that therefore this ſhould make their determination in<g ref="char:EOLhyphen"/>valid,
+and ineffectuall: This is a more ſtrange objection then the other, for that
+it is againſt the rule of Law, that any man ſhould take advan<g ref="char:EOLhyphen"/>tage of his
+owne wrong; and it is cleare, that after the Parliament is once begunne, their
+perſonall attendance is ſo neceſſary, and of ſuch im<g ref="char:EOLhyphen"/>portance to the
+Parliament, that they ought not by the Law, for any buſineſſe
+whatſoever, to be abſent, and ſo is <hi>Dyer.</hi>
+               <note place="margin">
+                  <hi>Dyer. fo.</hi> 6<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> And by the Stat. of 6. <hi>H.</hi> 8. it is enacted,<note place="margin">6. <hi>H.</hi> 8. <hi>ca.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> that no Knight, Citizen,
+or Burges, abſent him<g ref="char:EOLhyphen"/>ſelfe, without licence of the <hi>Speaker</hi> and
+Commons, under the paine of the loſſe of their wages. And in 3. <hi>E.</hi>
+2. <hi>Fitz: Corone</hi> 61. cited in <hi>Cromp<g ref="char:EOLhyphen"/>ton Jur.</hi>
+               <note place="margin">3. <hi>E.</hi> 2. <hi>Fit<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Corone</hi> 6<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Crompt. Iu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Courts. fo.
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </note> the Biſhop of
+<hi>Winton</hi> was arraigned in the Kings Bench, for that he came to the
+Parliament, and departed without licence. Why then is it ſo, that their
+withdrawing of themſelves, is a crime in them? Shall they then take advantage
+of this offence and neglect of theirs, of the Weale publique; for the good of
+which, they were called and aſſem<g ref="char:EOLhyphen"/>bled together, to aviſe? certainly not.
+Beſides, if this objection might hold, who is it that doth not ſee, what
+the inconvenience might be, <hi>Et argumentum ab inconvenienti eſt bonum in
+lege,</hi> an argument drawne from inconvenience, is good in Law. For by this
+invention, the concluſions and determinations of thoſe who are preſent,
+intending the Weale pub<g ref="char:EOLhyphen"/>lique, (as in dutie they are bound) ſhould be all
+fruſtrated, and annihi<g ref="char:EOLhyphen"/>lated, by the abſence of thoſe, who voluntarily
+and againſt Law, with<g ref="char:EOLhyphen"/>draw themſelves; which would be deſtructive to all
+Parliaments.</p>
+            <p>For <hi>poſito</hi> that all the Lords or all the Commons,
+ſhould voluntarily and out of an indiſpoſedneſſe to the common good,
+withdraw them<g ref="char:EOLhyphen"/>ſelves, and utterly refuſe to performe that truſt, which is
+repoſed in them, of counſelling and conſenting to ſuch Lawes, which
+might eſta<g ref="char:EOLhyphen"/>bliſh peace, and a ſettled condition in Church and State: will
+any man thinke, that if in this time of diſſertion of the Lords or Commons,
+there be an apparent &amp; imminent danger, threatning ruine to the
+Common-wealth, if it be not in an opportune and ſeaſonable time prevented,
+that in this caſe, it lies not in the power of the King and Lords, or of the 
+<pb n="18" facs="tcp:112469:12"/> King &amp; Commons onely, as the caſe is, by way of
+Ordinance, to ſettle the Kingdom in ſuch a ſtate and temper, as may
+prevent any approach<g ref="char:EOLhyphen"/>ing miſery? Without queſtion it doth, or otherwiſe
+this concluſion (as I have ſaid before) would be deſtructive to all
+Parliaments.</p>
+            <p>I agree, that an Act of Parliament cannot be made, by which a new
+Law ſhould be enacted, that ſhould be obligatory to the Subject for ever,
+(I meane untill it were repealed by another Act) but by the conſent of the
+King, Lords, and Commons; and with this accords the Books, 4. <hi>H.</hi>
+7<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>H.</hi> 7.
+18.</note> there an Act was made by the King and Lords, but nothing was
+ſpoken of the Commons; and by all the Judges, this is no act of Parlia<g ref="char:EOLhyphen"/>ment.
+7 <hi>H.</hi> 7.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>H.</hi> 7 14.</note> No Statute except that the Lords and Commons
+aſſent to it. And 11. <hi>H.</hi> 7.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>H.</hi> 7. 27.</note> it is no act
+of Parliament, except it be made by the King Lords, and Commons. By this it is
+manifeſt, that all the three Eſtates ought to joyne in the making of an act
+of Parliament: and this is ſo cleare, that I need not cite any other
+authoritie in proofe of it, for ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Books are plentifull in this point. Onely I ſhall remember one re<g ref="char:EOLhyphen"/>markable
+caſe, which I finde in our Law, to prove that the Books which ſay, <hi>That
+an Act of Parliament cannot be made, without the conſent of the Lords,</hi>
+that this ought to be intended of the Lords Temporall onely, and not of the
+Lords Spirituall: and therefore it is reſolved by the Judges in 7.
+<hi>H.</hi> 8. <hi>Keilway.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>H.</hi> 8. <hi>Keil<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y. fo.</hi> 184. b.</note> that the King
+may well hold his Parliament, by him, his Temporall Lords &amp; Commons,
+without the Spirituall Lords: ſo that by this it was manifeſt, that they
+were not eſſentially neceſſary to a Parliament; for that the King might
+have holden a Parliament without them: and therefore it is not now ſo much to
+be wondred at, that they are totally excluded by Act of Parliament.</p>
+            <p>But now on the other ſide, I conceive as clearely, under favour,
+that if the King do utterly forſake them, and decline their advice and
+coun<g ref="char:EOLhyphen"/>ſell, to which he ought to adhere during Parliament, that in ſuch
+caſe they may (as I have ſaid before) make ſuch Ordinances, without him,
+for the ſecuring of the Kingdome, in caſe of exigency and extremitie, as
+ſhall be obligatory to all the Realme, pending Parliament: for other<g ref="char:EOLhyphen"/>wiſe,
+they ſhould have the name of a Parliament onely, &amp; not the power and
+vertue of it.</p>
+            <p>But now it may be objected, that the King by his Prerogative, may
+call a Parliament when he pleaſeth, and alſo adjourne and diſſolve it
+when he pleaſeth: and that the power given by the Writ of Summons, of the
+Lords to Parliament, is onely <hi>ad tractandum &amp; conſulendum,
+&amp;c.</hi> and therefore it will be concluded, that by the ſame power the
+King may command his Counſellors whither he pleaſeth. To this I anſwer,
+and agree, that the King may call or diſſolve a Parliament when he
+plea<g ref="char:EOLhyphen"/>ſeth, and ſo totally toll their power; but yet under favour, pending 
+<pb n="19" facs="tcp:112469:12"/> Parliament, unadjourned, the King can neither retarde
+their proceed<g ref="char:EOLhyphen"/>ings, nor take away their perſons: and that I ſhall prove
+thus: the King, as <hi>fons Justitiae,</hi> the fountaine of Juſtice, from
+whom all Judiciary power is derived, may likewiſe make, whom he pleaſeth,
+to be a Judge, to diſ<g ref="char:EOLhyphen"/>pence the Lawes in juſtice and equitie unto his
+people; but will it there<g ref="char:EOLhyphen"/>fore follow, that when he hath made ſuch and ſuch
+to be his Judges, that he may either retarde their proceedings, or countermand
+their judgements, under favour, nothing leſſe. Againe, as I have ſhewed
+be<g ref="char:EOLhyphen"/>fore, they are puniſhable by the Law, for withdrawing of themſelves: and
+it were hard, that the King ſhould have power to command me that act, which
+being done, ſubjects me to a ſevere puniſhment. Now for that part of the
+objection, that they are but his Counſellors, and not his Judges: to that I
+ſhall give, as I hope, a full and ſatisfactory anſwer afterwards.</p>
+            <p>And now I ſhall conclude this firſt ground or reaſon, with
+another anſwer to the objection, againſt the imminent danger, and this I
+ground upon the words in the Kings Writ, by which he ſummons the Lords to
+Parliament; in the body of which Writ he ſaith, <hi>Mandamus quod
+con<g ref="char:EOLhyphen"/>ſideratis dictorum negotiorum arduitate &amp; periculis imminentibus,
+ceſſante excuſatione quacunque, dictis die &amp; loco
+perſonalitèr interſitis nobiſcum, &amp;c.</hi> that is, we command
+you, that conſidering the greatneſſe of the bu<g ref="char:EOLhyphen"/>ſineſſe, and the
+imminent dangers, laying afide all excuſe, you be per<g ref="char:EOLhyphen"/>ſonally with us, the
+ſaid day and place, &amp;c. Here the King by his Writ ſaith expreſſely,
+that at the time of the calling of this Parliament, there was an imminent
+danger; and as now it ſhould be diſhonourable for the King to contradict
+himſelfe, ſo I doe not conceive, that he ſhall be re<g ref="char:EOLhyphen"/>ceived to deny that
+extrajudicially, which he hath confeſſed by his Writ judicially.</p>
+            <p>But to this it will be ſaid, that the Writ, <hi>Eſt breve
+formatum,</hi> that is, it is a formed Writ, or a Writ of courſe, and that
+there is no other, and that from this there is no varying; ſo that be the
+occaſion of calling of the Parliament, what it will, the ſame form ought to
+be pu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſued, and no other; and
+therefore it is no concluding reaſon, that there is an imminent danger,
+becauſe the Writ ſaith ſo. To this I anſwer, that we ought not to
+preſume, that the King will ſpeak any thing in a judiciall way, as here he
+doth, which ſhould be vain and ſuperfluous; beſides, if you conſider
+the time in which this Parliament was called, when that the Scottiſh Army was
+in <hi>England,</hi> and at which time ſuch diſtractions, and rumours of
+warres, did I ſay rumours of warres? I might have ſaid Warre it ſelf; was
+amongſt us: when that the extreme inſolencie and pride of the Clergie;
+together with the darkneſſe of ſuperſtition and Popery, had almoſt
+overwhelmed this Nation with imminent deſtru<g ref="char:EOLhyphen"/>ction <pb n="20" facs="tcp:112469:13"/> and
+miſery: the fear of which doth yet cloud the face of the poore Commonalty, I
+ſay, theſe things conſidered, we may juſtly conclude, that the King, at
+that time, ſpake as he intended, and therefore certainly now, he ſhall not
+be received to contradict it. Wherefore I conclude this firſt reaſon, that
+by reaſon of the imminent danger which threatens the Common-wealth, the King
+refuſing to ſettle the <hi>Militia,</hi> the Parlia<g ref="char:EOLhyphen"/>ment may well do
+it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, I hold that the Parliament
+may do it; for that the King by his refuſall hath made a breach of that
+truſt that is committed to him, by God, and his people, that there is a
+truſt committed to him, and that the greateſt alſo, that any one under
+God can have, I have in part de<g ref="char:EOLhyphen"/>monſtrated it before; for I have ſhewn how
+that he is bound by the Law to defend and protect his people, their lives,
+liberties, and eſtates, from any forrein or domeſtick danger; and ſaith
+<hi>Forteſcue, ca.</hi> 13. cited be<g ref="char:EOLhyphen"/>fore,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>teſc. ca.</hi> 13.</note> 
+               <hi>Rex ad
+tutelem legis, corporum, &amp; bonorum, erectus eſt:</hi> he is erected King,
+for this purpoſe, and intent, to defend the Law, the bodies and goods of his
+Subjects. And he ſaith himſelf (as I have likewiſe ſhewed before) in
+the Commiſſion directed to Commiſſioners of Sewers, that by reaſon of
+his royall dignity, <hi>Aſtrictus eſt ad providendum ſalvationi regni
+ſui;</hi> He is bound to ſecure his kingdom. And this he is bound to do by
+the Law, and Juſtice: for he ought to rule according to Law, and for this
+purpoſe he is intruſted with the Law alſo: and therefore in 8.
+<hi>H.</hi> 7. it is ſaid,<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 7. <hi>fo.</hi> 1. 2.</note> that the King is
+conſervator of the Law, the which is the Common-weal. As if it had been
+ſaid, the Common-weal, depends up<g ref="char:EOLhyphen"/>on the Kings well keeping, and obſerving,
+of the Law. And in many places of <hi>Bracton,</hi> amongſt which, this is
+one: <hi>fo.</hi> 55. b. he ſaith,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ct. fo.</hi> 55. b.</note> 
+               <hi>Scien<g ref="char:EOLhyphen"/>dum
+quod ipſe Dominus Rex, ordinariam habet juriſdictionem, &amp; dignita<g ref="char:EOLhyphen"/>tem,
+&amp; poteſtatem, ſuper omnes, qui in regno ſuo ſunt, habet enim omnia
+ju<g ref="char:EOLhyphen"/>ra in manu ſua quae ad Coronam, &amp; laicam pertinent poteſtatem, &amp;
+mate<g ref="char:EOLhyphen"/>rialem gladium, qui pertinet ad regni gubernaculum, habet etiam iustitiam
+&amp; iudicium, quae ſunt iuriſdictiones, ut ex iuriſdictione ſua,
+ſicut Dei Mi<g ref="char:EOLhyphen"/>niſter, tribuat unicuique quod ſuum fuerit:</hi> that is, we
+muſt know, that the King hath ordinary juriſdiction, and dignitie, and
+power, above all which are in his kingdom; for he hath all the Laws in his
+hand, which do pertain to the Crown, and lay power; and the materiall ſword,
+which belongeth to the government of his kingdom; he hath alſo ju<g ref="char:EOLhyphen"/>ſtice,
+and judgement, which are juriſdictions, that by his juriſdiction, as Gods
+Miniſter, he may give to every one, that which is his own. Here you may
+ſee, that the King is intruſted, with the Laws, and Juſtice, as alſo
+with the materiall Sword, to this end, that he may defend his peo<g ref="char:EOLhyphen"/>ple committed
+to his charge, as well by force, if occaſion be, as by righ<g ref="char:EOLhyphen"/>teous judgement.
+And to this alſo he is bound by his Oath, as I have <pb n="21" facs="tcp:112469:13"/>
+ſaid before, which I find in <hi>Bracton, fo.</hi> 107.<note place="margin">
+                  <hi>Bract. fo.</hi> 107 a. <hi>ca.</hi> 9.</note> by which he
+ſweareth that <hi>In omnibus iudiciis aequitatem praecipiet, &amp;c. ut per
+Justitiam ſuam firma gaudent pace univerſi:</hi> that is, that he will
+uſe equitie in all his judge<g ref="char:EOLhyphen"/>ments, that all, men may injoy a firm peace, by
+his juſtice. And there he further ſaith, that <hi>ad hoc creatus eſt
+&amp; electus, ut iuſtitiam faciat univerſis, &amp;c. &amp; quod
+iuſtè iudicaverit, ſuſtineat, &amp; defendet, &amp;c.</hi> He is
+created, and elected King, for this purpoſe, and intent, to do juſtice to
+all men, and that he ſhould judge juſtly, ſuſtain and defend them. And
+with this accords 6. <hi>H.</hi> 7. where it is ſaid,<note place="margin">6.
+<hi>H.</hi> 7. 16.</note> that the King is bound for to do right to parties.
+And as he ought to rule according to Law, ſo he himſelf, ought to be
+governed by the Law, as I have ſhewed before. And as <hi>Bra<g ref="char:EOLhyphen"/>cton</hi>
+ſaith,<note place="margin">
+                  <hi>Bract. fo.</hi> 5. b.</note> 
+               <hi>fol.</hi> 5. b.
+<hi>Ipſe autem Rex, non debet eſſe ſub homine, ſed ſub Deo, &amp;
+ſub Lege, quia L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x facit
+Legem:</hi> The King ought not to be under man, but under God, and the Law. Now
+I conceive that it is manifeſt, that the King is intruſted with the Laws,
+lives, liberties, and eſtates of his Subjects, all which he of right ought to
+defend in peace and tranquil<g ref="char:EOLhyphen"/>lity, as he alſo by his Oath is bound; and
+therefore <hi>Bracton</hi> ſaith,<note place="margin">
+                  <hi>Bract. fo.</hi> 55.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Eſt Corona Regis
+facere iuſtitiam, &amp; iudicium, &amp; tenere pacem, ſine quibus co<g ref="char:EOLhyphen"/>rona
+conſiſtere non poteſt nec tenere:</hi> It is the Crown of the King to do
+juſtice, and judgement, and to maintain peace; without which, his Crown
+cannot ſtand and continue: as if he had ſaid, it is ſo eſſentiall to
+the King to do juſtice and judgement; and to maintain peace, that you
+de<g ref="char:EOLhyphen"/>ſtroy the Crown, if you take away theſe.</p>
+            <p>Now I ſhall prove, that the King hath made a breach of this
+great truſt committed to him, foure wayes. Firſt, by denying of his
+Protection to his people. Secondly, by not ſupporting of the Laws, and the
+Priviledges of Parliament. Thirdly, by not endeavouring to maintain peace
+amongſt his people. And fourthly and laſtly, by deny<g ref="char:EOLhyphen"/>ing of Juſtice; and
+in all theſe particulars I ſhall prove, that the King hath broken the
+truſt committed to him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> And firſt, he hath broken the
+truſt committed to him by denying of his protection, and this he hath done
+three wayes. 1. By denying of his legall protection, that is, in not protecting
+of his people accord<g ref="char:EOLhyphen"/>ing to Law: and this he hath done, by denying to ſettle
+the <hi>Militia,</hi> by the adviſe of his great Counſell, according to
+Law: by whom onely, during Parliament, he ought to be adviſed, for during the
+continuance of this great Counſell, all inferiour Counſels ought to
+ceaſe: and ther<g ref="char:EOLhyphen"/>fore the Counſell of others neither can, nor ought to
+countermand theirs: but of this I ſhall ſpeak more fully afterwards. 2. The
+King hath denied his Royall protection to his people, in taking up of Arms
+againſt his Parliament, who is the repreſentative Body of the whole
+Kingdom: and this is the moſt ſtrong refuſall of his protection, of all 
+<pb n="22" facs="tcp:112469:14"/> others, for by this he doth not refuſe onely to protect
+them, but he goes about to deſtroy them, whom, by the Law, and his Oath, he
+is bound to preſerve and defend. And thirdly and laſtly, he hath denied his
+royall protection to his people in this, that in time of imminent dan<g ref="char:EOLhyphen"/>ger to
+the Kingdom, he hath denied to ſettle the <hi>Militia;</hi> and he that
+denies the means, denies the end. For it is a rule with us in our Law, that
+<hi>Qui tollit medium, tollit quoque finem:</hi> He that takes away the means,
+takes away the end. And it is all one in effect, to deny a thing, as to deny
+the means <hi>per quod pervenitur ad illud:</hi> by which you may come to the
+thing. Now it is clear, that the ſole means, under God, to defend this
+kingdom, in time of imminent danger, from its enemies, either forrain or
+domeſtick, is, by ſettling of the <hi>Militia,</hi> and by put<g ref="char:EOLhyphen"/>ting of the
+Forts, and Magazine of the kingdom, into faithfull and true hands, ſuch as
+may be confided in, being a matter of ſo great conſe<g ref="char:EOLhyphen"/>quence, and of ſo
+high importance to the whole Common-weal. Now the King refuſing to do this,
+doth he not in effect, deny his protection to his people? for denying of the
+means, it is all one as if he had denied the end: ſo that I conceive, for
+theſe reaſons, the King hath denied to protect his people, as by the Law he
+is bound, and therefore hath made a breach of the truſt that is repoſed in
+him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, I conceive, that the King
+hath broken this great truſt, in not ſupporting of the Laws, and the
+priviledges of Parliament; that he hath not maintained the Law appeareth
+plainly, by that, that I have ſaid before, for that he hath refuſed to be
+ruled by it, as he ought: for though that he is not <hi>ſub homine,</hi>
+under man; yet he is <hi>ſub Lege,</hi> under the Law, as I have ſhewed
+before, and therefore ought to be governed by it. And what is this but a
+refuſing to be ruled by Law, when he re<g ref="char:EOLhyphen"/>fuſeth upon the prayer of his
+Parliament to ſettle the <hi>Militia</hi> for the defence of his Kingdom, and
+people, according to Law? And that the King hath broken the Priviledges of
+Parliament, what more plain? I might inſtance in many things, but I ſhall
+inſtance in onely one or two: And here I appeal to all the world, whether his
+withdrawing of him<g ref="char:EOLhyphen"/>ſelf from his Parliament; and not onely ſo, but his
+endeavouring, by his many detractions and imputations laid upon his Parliament,
+to with<g ref="char:EOLhyphen"/>draw all the hearts of his people from them likewiſe: and, which is
+yet worſe, his ſupporting and maintaining of ſuch men, and keeping of
+them from juſtice and their condigne puniſhment, who are Delinquents in a
+high nature, againſt his Parliament: I ſay, that I appeal to all the world,
+whether theſe be not great breaches of the Priviledges of Parlia<g ref="char:EOLhyphen"/>ment? and
+what greater breach of the priviledges of Parliament can there be? then to
+protect and defend them, without any colour of Law, or juſtice, who indeavour
+nothing, but the ruine of Parliament, and in <pb n="23" facs="tcp:112469:14"/> this, of our
+Laws, lives, and liberties: ſo I conceive, that this alſo is a breach of
+that great truſt which is repoſed in his Majeſtie, by God, his people,
+and the Laws of the Land.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, I conceive that the King hath
+infringed this great truſt, by not indeavouring to maintaine peace: and this
+two wayes, by his com<g ref="char:EOLhyphen"/>miſſion, and omiſſion; by his commiſſion, in
+taking up of Armes againſt his people, as I have ſaid before, and then by
+his omiſſion, and not one<g ref="char:EOLhyphen"/>ly ſo, but by an abſolute refuſall, in this
+time of imminent danger, to ſettle the Kingdome in a poſture of defence,
+the ſole meanes, under God, as I have ſaid, to maintaine peace and
+tranquillitie amongſt us: and this i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt his Oath alſo, which the King himſelfe was pleaſed
+of late to publiſh to his people: which I finde likewiſe expreſſely in
+<hi>Bracton,</hi>
+               <note place="margin">
+                  <hi>Bract. fo.</hi> 107.</note> that the
+King firſt ſweareth, <hi>Se eſſe praecepturum, &amp; pro viribus opem
+im<g ref="char:EOLhyphen"/>penſurum ut Eccleſiae Dei &amp; omni populo Chriſtiano, vera pax, omni
+ſuo tempore, obſervetur,</hi> that is, that he will indeavour to the
+utmoſt of his power, that true peace may be kept &amp; obſerved, to the
+Church of God, and to all Chriſtian people, all his dayes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, and laſtly, I conceive
+that the King hath broken his truſt, by denying of juſtice: and this he
+hath done two wayes; ſirſt, by deny<g ref="char:EOLhyphen"/>ing to ſurrender up Delinquents to
+the Juſtice of the Law: and ſecond<g ref="char:EOLhyphen"/>ly, by denying to ſettle the
+<hi>Militia,</hi> by and according to the adviſe of his great Counſell the
+Parliament. Now that the King is obliged to doe Juſtice, it is without
+queſtion, for his very Oath (as I have ſhewed be<g ref="char:EOLhyphen"/>fore) ties him
+expreſſely to it, and ſo is 6. <hi>H.</hi> 7. cited before, and
+<hi>Bra<g ref="char:EOLhyphen"/>cton, fo.</hi> 107. <hi>a.</hi> where he ſaith,<note place="margin">
+                  <hi>Bracton fo.</hi> 10<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> that <hi>Ad hoe creatus eſt &amp; electus ut juſti<g ref="char:EOLhyphen"/>tiam
+faciat univerſis, &amp;c.</hi> He is created and elected King, for this
+purpoſe and intent, that he may doe juſtice to all men. And what greater
+act of Juſtice can there be, then for the King to defend his people in peace?
+or what greater act of Juſtice can there be, then for the King, at the
+re<g ref="char:EOLhyphen"/>queſt of his people, repreſented by the body of Parliament, to enact
+ſuch Lawes, which conduce to the maintaining of peace? Certainly none. And
+this <hi>Bracton</hi> ſeemeth to intimate,<note place="margin">
+                  <hi>Bracton.
+fo.</hi> 10<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>Sinon
+eſſet qui juſtitiam fa<g ref="char:EOLhyphen"/>ceret, pax de facili poteſt exterminari,
+&amp;c.</hi> If there were not one who would doe Juſtice, peace might
+eaſily be extirminated. Here note, that he doth not ſay, that our lives,
+Lawes, Liberties, or Eſtates, for want of Juſtice might eaſily be
+extirminated; but our peace, by this, as it were, concentering all Juſtice in
+this act of maintaining peace: and without queſtion, all our happineſſe,
+under God, conſiſts in the ſupporting and maintaining of peace: for, take
+that away, and all things fall to utter ruine and deſtruction. And certainly,
+if it be thus, that the greateſt act of Juſtice in the King that can be,
+conſiſts in maintaining of peace, and in granting of ſuch Lawes, which
+conduce unto this end, without que<g ref="char:EOLhyphen"/>ſtion <pb n="24" facs="tcp:112469:15"/> the denying of
+this by the King, muſt needs be the greateſt act of injuſtice in the King
+that can be, and by conſequence, a breach of that truſt, that is repoſed
+in his Majeſtie. And therefore I doe conceive, that at the leaſt in this,
+the King can have no negative voyce: and I doe not conceive, that the King can
+have any negative voyce in Parliament, in other things; for if the King, by his
+Oath, and the Law of the Land, be obliged to doe Juſtice, (as in truth he is)
+and if it be as great an act of Juſtice in the King, as can be, not onely
+juſtly to diſpence the Lawes <hi>in eſſe,</hi> in being, to his people;
+but alſo to grant ſuch new Lawes unto them as conduce to the well governing
+of them, in peace and happineſſe. Why then certainly it muſt of
+neceſſitie follow, that the King can have no negative voyce; but is bound
+under this heavie ſinne, of the breach of his Oath, and the Lawes of the
+Land, to grant ſuch Lawes as are re<g ref="char:EOLhyphen"/>queſted of him by his people.</p>
+            <p>But here it may be objected, that the King had this Prerogative by
+the Law, that he might have called a Parliament when he pleaſed, and there
+was no poſitive Law to the contrary, before this Parliament, in which the
+King hath deveſted himſelfe of this power; and if before at the re<g ref="char:EOLhyphen"/>queſt
+of his people, he had not been pleaſed to grant them a Parliament, why, this
+in effect, was a denier of Juſtice, for that the King denied the meanes by
+which it might be obteined, and yet this was lawfull for him to doe; therefore
+it will be concluded, that by the ſame reaſon he may have a negative voyce
+in Parliament. And <hi>Cromp. Jur.</hi> of <hi>Courts</hi> ſaith
+expreſſely,<note place="margin">
+                  <hi>Cro. Iur. fo.</hi> 7. b.</note> that when
+the King doth aſſent to a Bill, then he writes up<g ref="char:EOLhyphen"/>on the Bill, <hi>L' Roy
+veult,</hi> that is, the King will have it ſo; and if he doth not aſſent,
+then it is indorſed <hi>L'Roy adviſera,</hi> that the King will adviſe;
+here it doth appeare how the King hath a negative voyce allowed him by the Law.
+To this I anſwer, and agree, theſe Prerogatives <hi>de facto</hi> to be in
+the King, but whether in truth, they be ſuch as are compatible, and may
+ſtand with the Oath and Juſtice of the King: this may be queſtio<g ref="char:EOLhyphen"/>nable,
+and under favour, I conceive that they cannot; for that, as I have ſhewed,
+his Oath and the Lawes of the Land, ties his Majeſtie to doe Ju<g ref="char:EOLhyphen"/>ſtice to
+his people, and the granting of new Laws unto them, upon their requeſt, is an
+Act of Juſtice, and therefore he cannot denie them without breach of his
+Oath, and the Lawes of the Land; and by conſequence, theſe prerogatives are
+not compatible, with the Oath and Juſtice of the King; and though
+peradventure the Law may diſpence with it ſelfe, yet it cannot with the
+Oath of the King. Wherefore I conceive, not<g ref="char:EOLhyphen"/>withſtanding this objection, that
+the King can have no negative voyce: but of this onely by the way.</p>
+            <p>And is it thus, that the King hath made a breach of that truſt
+repoſed in him, by God and his people? as in truth, I have cleered it unto
+you: <pb n="25" facs="tcp:112469:15"/> then none ſo proper to ſupply this defect, in his
+Majeſtie, by the diſpo<g ref="char:EOLhyphen"/>ſing of the <hi>Militia,</hi> for the defence and
+protection of the King &amp; King<g ref="char:EOLhyphen"/>dome, as the Parliament, who are at this time
+entruſted, under God, not onely with our <hi>eſſe,</hi> with our being,
+but with our <hi>bene eſſe,</hi> with our well-being alſo.</p>
+            <p>But here it may be objected, that the King derives his Crowne and
+re<g ref="char:EOLhyphen"/>gall power from God, and that therefore he is reſponſible to God alone
+for his actions, and not to man: To this I anſwer, that it is a moſt
+ſtrange Epiſcopall and illegall objection; for what is this but the
+attributing of a power to the King above Law? and the giving of him ſuch a
+prero<g ref="char:EOLhyphen"/>gative that ſhould not be ſubject to thoſe Conſtitutions, which
+his pre<g ref="char:EOLhyphen"/>deceſſors before him had been, and though it ſhould be admitted,
+that as all power is derived originally from God, ſo eſpecially this; yet
+it doth not follow, that it was therefore conferred by an extraordinary and
+immediate hand of God, as it was upon <hi>Saul</hi> and <hi>David,</hi>
+               <note place="margin">1 <hi>Sam.</hi> 9. <hi>&amp;</hi> 24.</note> yet they likewiſe
+were confirmed and approved by the people, as you may reade in holy Writ.
+Beſides, <hi>Saul</hi> and <hi>David,</hi> lived not under any Municipall or
+poſitive Conſtitutions of men, which they were bound to maintaine and
+obſerve, as the King of <hi>England</hi> doth, and therefore it muſt needs
+be, that their power muſt be more abſolute, which was not circumſcri<g ref="char:EOLhyphen"/>bed
+within the bounds and limits of any humane Lawes. But now the Kings of
+<hi>England</hi> having ſubjected themſelves to the Law of the Land, and
+received their Crownes with that truſt and tacite condition, of de<g ref="char:EOLhyphen"/>fending of
+the Lawes, lives, and liberties of their Subjects: the Law were idle and vaine,
+if there ſhould be none that ſhould have this power, for the breach of this
+truſt by his Majeſtie, to interpoſe for the ſecuring of him, his Lawes,
+and people. And if this divine prerogative, which the Biſhops doe ſo buzze
+into the Kings eares, ſhould be admitted, I would faine know what difference
+would be made, betwixt an abſolute Mo<g ref="char:EOLhyphen"/>narke, and the King of
+<hi>England:</hi> and cleerely this was never reputed for other, nor can be
+(the Crowne being ſubject to the Law as well as the people) then a mixt
+Monarchy: but I ſhall conclude this, that they who ſo much defend and exalt
+this divine prerogative, would in the concluſion (if they might have their
+way) upon the ſame ground, ad<g ref="char:EOLhyphen"/>vance the Miter above the Crowne. God open the
+Kings eyes, that he may ſee and acknowledge himſelfe ſubject to the
+Lawes, and may rule his people accordingly: and grant that he may deteſt
+ſuch advice, as dangerous to the State, and the ſuggeſters of it, as
+Peſts and Traytors to the ſame.</p>
+            <p>But it may be againe objected, that this was a conquered Nation,
+&amp; therefore by the Law of Conqueſt, the Conquerour might have made what
+alterations in the Law, or State, he pleaſed; but he retaining the 
+<pb n="26" facs="tcp:112469:16"/> Law, and ſubjecting himſelfe to it (who might have
+advanced himſelfe above it) will it therefore follow, that in ſo doing, he
+hath ſubjected himſelfe to his people likewiſe? if he tranſgreſſe
+it, <hi>Deum habet ulto<g ref="char:EOLhyphen"/>rem,</hi> God will revenge it, but it was never his
+intent to give his people that power.</p>
+            <p>To this I anſwer, that retaining of the Law, and ſubjecting of
+him<g ref="char:EOLhyphen"/>ſelfe unto it, he is bound by it, and all his Succeſſours after him;
+and it were in vaine (as I have touched it before) to eſtabliſh a Law, and
+to give none power to put it in execution: Wherefore I conceive, that that Law
+that bindes the King, will for the breach of the ſame, authoriſe his
+Parliament, though not to inflict any penalty upon his ſacred per<g ref="char:EOLhyphen"/>ſon, God
+forbid, yet to provide for the ſecuring of him and his King<g ref="char:EOLhyphen"/>dome; for
+otherwiſe (as the ſad conſequence of it would make it good) it would be,
+in effect, but as a dead Letter.</p>
+            <p>But now further it may be objected; Shall they have ſuch an
+arbitra<g ref="char:EOLhyphen"/>ry way of power, as this is, to doe any thing by way of Ordinance,
+without the King? If this may be ſuffered, they may Metamorphiſe and change
+the Law, into what ſhape they pleaſe, or which beſt agrees with their
+humours: ſo that if they order, that land ſhall from hence<g ref="char:EOLhyphen"/>forth diſcend
+to the youngeſt ſonne, contrary to the courſe of common Law, (as I thinke
+the caſe was put) if this ordinance ſhould binde the Subject, he ſhould
+here at once be deprived of a double birth-right and inheritance, <hi>viz.</hi>
+of his land as heire, and of the Law as a Subject; which would be very hard and
+unreaſonable.</p>
+            <p>For that part of the objection, of their arbitrary way of
+proceeding, I ſhall in part here anſwer it; but more fully afterwards: for
+the obje<g ref="char:EOLhyphen"/>ction, that they cannot doe it by way of Ordinance, without the King:
+To this I anſwer, that in caſe of imminent danger (as now) the King<g ref="char:EOLhyphen"/>dome
+muſt needs periſh, if they ſhould not have this power, for they have no
+other way to ayde the Kingdome in time of imminent danger, by ſetling the
+<hi>Militia</hi> of it, but by way of Act, or Ordinance, and if the King
+refuſe, by their advice, to ſettle it, by way of act (as in truth he doth
+now) then we muſt of neceſſitie, allow a power in the Parliament, <hi>Ne
+pereat regnum,</hi> leaſt that the Kingdome periſh, by way of Ordinance to
+ſettle the <hi>Militia,</hi> for the defence of the ſame; for otherwiſe,
+the King ſhould have power, when he pleaſeth, to deſtroy his Kingdome,
+and the people ſhould be left naked of any abilitie, to preſerve and
+de<g ref="char:EOLhyphen"/>fend themſelves; which were very unreaſonable, and unnaturall; for
+nature it ſelfe, hath not onely eſtabliſhed it as a Law, that all
+creatures may defend themſelves from unnaturall violence, but hath armed them
+accordingly.</p>
+            <p>And now I ſhall prove, that as the Parliament are the moſt
+proper <pb n="27" facs="tcp:112469:16"/> and onely power, to provide for the ſecuring of
+the Kingdom: and a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they have no
+other way to do it: ſo they are obliged to take this way: and this they are
+tied to by their Oaths of Allegiance, Supremacy, and their late Proteſtation;
+for by theſe they have all ſworn, vowed, and proteſted, to defend the
+King, his royall perſon, and eſtate, and to be true and faithfull to him;
+now it is impoſſible for them to defend the King, and to be true and
+faithfull to him, if they, in time of imminent danger, do not indeavour, as
+much as in them lieth, to defend his king<g ref="char:EOLhyphen"/>dom; for there is ſuch a
+reciprocall and dependent relation, betwixt the King and his Kingdom, that the
+one cannot ſubſiſt without the other: for if they permit the kingdom to
+be deſtroyed, the King muſt of ne<g ref="char:EOLhyphen"/>ceſſitie be ruined alſo. If the
+Maſter die, the relation of a ſervant muſt needs ceaſe: for that
+relatives cannot ſubſiſt, the one, without the other. And if the kingdom
+fail, the King and Scepter muſt needs fall to the ground. And this is, in
+part, the reaſon of that pollity of Law, in the 7. <hi>Rep. Calvins</hi>
+caſe,<note place="margin">7. <hi>Rep.</hi> 12. <hi>Calvins C.</hi>
+               </note> that
+the King is a body politick, leſt there ſhould be an <hi>interregnum;</hi>
+for that a body politique never dieth.</p>
+            <p>Why then is it ſo, that they are bound by their Oaths to defend
+the kingdom, as well as the King? as in truth they are, for that the King
+cannot ſubſiſt without the kingdom; then the conſequence muſt of
+neceſſity be, that the Parliament, in this time of imminent danger, hath
+well done in ſettling of the <hi>Militia,</hi> for the defence and welfare of
+the King and kingdom: and that in ſo doing, they have not onely not done more
+then what they might do, but they have done no more then what they were bound
+to do, and this under the heavie ſinne of per<g ref="char:EOLhyphen"/>jurie.</p>
+            <p>But here it may be objected, that this is a corrupting and
+dividing of the Text; for that the Oath of Supremacy doth not onely bind us to
+be true, and faithfull to the King, but alſo to defend, <hi>all
+Juriſdictions, Pri<g ref="char:EOLhyphen"/>viledges, preheminences, and authorities, granted, or
+belonging to his High<g ref="char:EOLhyphen"/>neſſe, &amp;c.</hi> And the having of the ſole
+diſpoſing of the <hi>Militia</hi> is one of the priviledges of the Crown,
+and appertaining to his Highneſſe: and therefore we are bound likewiſe,
+by this Oath, to defend this pri<g ref="char:EOLhyphen"/>viledge of the Kings, againſt any who
+ſhall endeavour the taking it away from his Majeſtie.</p>
+            <p>To this I anſwer, and agree, that the King (as I have ſhewed
+before) hath this priviledge and prerogative given unto him, and with him
+in<g ref="char:EOLhyphen"/>truſted by the Law for the good of the Common-wealth: but I never heard
+that he had it allowed him, for the deſtruction of the ſame. Again, I agree
+that the Oath of Supremacy obligeth every man to defend the priviledges and
+preheminences of the King: but I do not conceive, or beleeve, that this ought
+to be ſo conſtrued, that any man <pb n="28" facs="tcp:112469:17"/> by the Oath of
+Supremacy, is bound to defend the priviledges of the King, againſt the weal
+publick: for if the weal publick, and priviledges of the King, ſtand in
+competition, without queſtion the publick intereſt and welfare ought to be
+preferred. And therefore if the King do not imploy and uſe his priviledges
+according to the truſt repoſed in him, but rather contrary to it: certainly
+this doth diſoblige every man from that tie and ingagement in this
+particular, with which he was bound by the Oath of Supremacy. For ſo to
+conſtrue the Oath, that I ſhould de<g ref="char:EOLhyphen"/>fend the pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>viledges of the King, though it be in
+deſtruction of the com<g ref="char:EOLhyphen"/>mon-wealth: were to make the Oath the moſt hard and
+unreaſonable tye in the world: whereas, every Oath, amongſt other
+qualifications, ought eſpecially to have theſe two: <hi>viz.</hi> that it
+be explicite, I mean, without implications, or etcetera's: and reaſonable;
+and it would be very unreaſonable for a man to ſwear to ſuch a thing as
+would be his own deſtruction: but <hi>à fortiori,</hi> where it would
+be the deſtruction of the Common-wealth. And as it is ſaid, <hi>Pereat
+unus, ne pereant omnes;</hi> let one periſh, that all may not periſh: So I
+ſay, <hi>Pereant privilegia Regis ne pereat Regnum:</hi> it were much better,
+that the priviledges of the King ſhould totally ceaſe, or at the leaſt,
+be ſuſpended for a time, then that the kingdom ſhould be indangered.</p>
+            <p>But now I ſhall demand of any man an anſwer to this
+queſtion: whe<g ref="char:EOLhyphen"/>ther doth moſt ſtand for and defend the priviledges of the
+King: either he that endeavoureth to the utmoſt of his power to defend and
+ſupport the Common-weal, in imminent danger: or he that indeavoureth the
+deſtruction and ruine of the ſame: this is the very difference, between the
+Parliament and the Malignant party: the Parliament uſe all means poſſible
+to defend the King and kingdom from ruine; and the malignant party uſe all
+their skill to make both for ever miſerable; This queſtion is in it ſelf
+pregnant of an anſwer: and the very putting of the caſe, is a ſolution of
+the queſtion: For, no doubt, every wiſe and ingenious man muſt needs
+conclude within himſelf, that they moſt defend the privi<g ref="char:EOLhyphen"/>ledges of the
+King, who moſt indeavour the ſafetie of the King and kingdom, and that is
+the Parliament: ſo that this Objection fails in th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very foundation of it.</p>
+            <p>And now having anſwered that part of the Objection, that we
+ought not to defend the priviledges of the King againſt the Common-weal: and
+having likewiſe ſhewed, that he moſt indeavours the defence of the
+priviledges of the King, who ſeeks moſt the good and proſperitie of the
+Common-weal. I ſhall now anſwer the latter part of the Objection, that
+there is none that goeth about the taking away of the priviledges of the King:
+but onely to imploy them in defect of the King, accord<g ref="char:EOLhyphen"/>ing to the truſt
+repoſed in his Majeſtie. For as I have ſhewed before <pb n="29" facs="tcp:112469:17"/>
+the King is tied to protect his Subjects from any forrain invaſion, or
+domeſtick danger: and now the King refuſing to do this, by putting of the
+kingdom into a poſture of defence; the Parliament, according to the truſt
+repoſed in them, have, in defect of the King, and in his right, aſſumed
+to themſelves this great charge, of ſettling of the <hi>Militia,</hi> for
+the ſecuritie of the King, and people. And here I ſhall bid malice it
+ſelf ſpeak, whether it hath been imployed to any other end or purpoſe,
+then that for which it hath been alwayes pretended: <hi>viz.</hi> for the
+defence of the King and kingdom? or whether the Magazine (which is pretended to
+be taken from the King) wheras in truth it is imployed by the King, and for the
+ſafetie of him, and his kingdom (as I ſhall afterwards ſhew) hath been
+converted to any private property: or otherwiſe diſpoſed of, then for the
+common good? and if ſo, certainly here is no deveſting of the pretended
+property of the King: but that it ſtill remaineth in <hi>ſtatu qu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prius:</hi> in the ſame ſtate that
+it was at the firſt. But if it ſhould be ad<g ref="char:EOLhyphen"/>mitted, that this priviledge of
+the King is at this time taken from him: I conceive that it may be ſo, as
+this caſe is: For, as I have ſaid before, it were better that the King
+ſhould looſe his priviledge, then that the king<g ref="char:EOLhyphen"/>dom ſhould periſh. I
+agree the rule of Law, that the King, regularly, cannot grant over his
+Prerogative; and with this accords 4. <hi>Rep.</hi> 7. <hi>Rep.</hi> 14.
+<hi>H.</hi> 4. 2. <hi>H.</hi> 7. 20. <hi>H.</hi> 7.<note place="margin">4.
+<hi>Rep.</hi> 73. 2. 7. <hi>Rep.</hi> 25. b. 14. <hi>H.</hi> 4. 9. 2.
+<hi>H.</hi> 7. <hi>fo.</hi> 13. 20. <hi>H.</hi> 7. <hi>fo.</hi> 8.</note> and
+many other books: except in ſome ſpeciall caſes, as in the 2.
+<hi>Rep.</hi> and the 5. <hi>Rep.</hi>
+               <note place="margin">2. <hi>Rep. fo.</hi>
+44. a. 5. <hi>Rep. fo.</hi> 56. b</note> and the difference upon the books may
+be this, where the Prerogative is meerly perſonall, and where not: where it
+is meerly perſonall, there it is not grantable; but where it is not meerly
+perſonall, there it is: Now in our caſe I do con<g ref="char:EOLhyphen"/>ceive, and ſhall agree,
+that the ordering of the <hi>Militia</hi> of the kingdom, is a prerogative,
+ſo meerly perſonall in the King, that it cannot be grant<g ref="char:EOLhyphen"/>ed over to
+another. But it doth not therefore follow, that it can by no means be
+ſevered; eſpecially, as in this caſe, when it ſo much concern<g ref="char:EOLhyphen"/>eth the
+good of the Common-weal. Wherefore, I conceive clearly, that the King cannot
+grant this prerogative over to another, for that he onely is intruſted with
+it for the weal publick: and as we well know, parties intruſted, cannot grant
+their truſt over: for that a truſt is meerly perſonall, and therefore not
+ſeverable. And the King can no more grant over his prerogative of protection,
+or power of ordering of the <hi>Militia,</hi> to another, then he can
+diſpoſe of his Crown, or royall dignitie, to an<g ref="char:EOLhyphen"/>other: and that he cannot
+do, for King <hi>John</hi> ſurrendred his Crown to the Pope, and this was
+adjudged to be void, for that it was given to him by God, and the Law, in
+truſt, for the well governing of his people. 
+<note place="margin">
+                  <hi>Rot. Parl. An.</hi> 40. <hi>E.</hi> 3.
+<hi>Nu.</hi> 8.</note> And therefore by his own act, or grant, cannot be
+ſevered from him: For an office of truſt, by the Law, is not grantable
+over. But on the other ſide, we ſee, how that Crowns of Kings have been
+taken from them, by <pb n="30" facs="tcp:112469:18"/> the people, as in caſe of
+<hi>R.</hi> 2. and others: I do not ſpeak this in juſtifi<g ref="char:EOLhyphen"/>cation of the
+depoſing of Princes, God forbid that I ſhould, their per<g ref="char:EOLhyphen"/>ſons are
+ſacred: for that they are Gods anointed, and his Vicegerents, or <hi>Vicarii
+Dei,</hi> that is, Gods Vicars, as <hi>Bracton</hi> ſtiles them: againſt
+whom, God hath laid an inhibition, that we uſe not any violence, <hi>Touch
+not mine anointed:</hi> and therefore for my part, I conceive, that that damned
+opinion of the <hi>Spencers,</hi> in the reign of <hi>E.</hi> 2. that if the
+King did not demean himſelf, by reaſon in the right of his Crown, that his
+Lieges were bound by oath to remove the King: and that if the King could not be
+reformed by ſuit of Law, that it ought to be done <hi>per aſpertee,</hi> I
+ſay that, I conceive that this was juſtly damned, as in truth it was
+afterwards by two Acts of Parliament; the one in the Reign of <hi>E.</hi> 2.
+called <hi>Exilium Hugonis de Spencer:</hi> and the other in 1. <hi>E.</hi> 3.
+<hi>ca.</hi> 1.<note place="margin">
+                  <hi>Stat. E.</hi> 2. cal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <hi>exilium Hugonis de Spencer.</hi>
+1. <hi>E.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. <hi>ca.</hi>
+1.</note>
+            </p>
+            <p>But now, though that the King cannot grant this Prerogative over,
+as I have ſaid before yet, under favour, I conceive cleerly, that it li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th in the power of the Parliament, for
+the prefervation of the Kingdom, in caſe of imminent danger, as now, to
+ſettle the <hi>Militia</hi> in hands to be confided in; for, as I have ſaid
+before, the prerogative of the King muſt give way to the weal publique, and
+not the weal publique to the Pre<g ref="char:EOLhyphen"/>rogative of the King. For if the Prerogative
+of the King ought not to be advanced to the prejudice and wrong of the
+intereſt of any private man, as I have ſhewed before, much leſſe, to
+the wrong and injurie of the re-publique. And with this difference ought
+<hi>Bracton</hi> to be under<g ref="char:EOLhyphen"/>ſtood, who ſaith,<note place="margin">
+                  <hi>Bract.
+fo.</hi> 55. b.</note> that, <hi>Ea quae juriſdictionis ſunt, &amp; pacis,
+&amp; ea quae ſunt justitiae &amp; paci annexa, ad nullum pertinent, niſi
+ad Coronam &amp; dignitatem Regiam, nec à Corona ſeperari poterunt,
+cum faciunt ipſam Coronam.</hi> Thoſe things that belong to juriſdiction
+and peace, or are annexed to them, appertain to none, but the Crown, and Royall
+Dignity, neither can they be ſevered from it, for that they make the Crown it
+ſelf. Now as I have ſhewed before, theſe words of <hi>Bracton, Ea quae
+pacis ſunt, &amp;c.</hi> thoſe things that belong to peace, muſt
+neceſſarily intend <hi>Ea quae bel<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſunt,</hi> thoſe things that belong to warre alſo, for that
+it is impoſſible for the King, <hi>Abſquerebus Militaribus,</hi> that is,
+without the <hi>Militia,</hi> to defend his people in peace and ſafety; And
+for that, that he ſaith, that this cannot be ſevered from the Crown: this
+ought to be underſtood, by his own act onely: and not that it cannot be
+ſevered from him, though in his own default, by his Parliament. For, to make
+ſuch a con<g ref="char:EOLhyphen"/>ſtruction, were to make a Law, deſtructive to that, for which
+it was principally, and in the firſt place, made to preſerve; and that is
+the Common-wealth. And the like conſtruction and explanation of his words,
+<hi>Bracton</hi> maketh afterwards, for he ſaith, <hi>Ad perſonas, vel
+ten<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ta transferri non poterunt,
+nec à privata perſona poſſid<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri:</hi> they cannot be <pb n="31" facs="tcp:112469:18"/> transferred to
+perſons, or Tenements, nor be poſſeſſed of a private per<g ref="char:EOLhyphen"/>ſon; which
+cannot be otherwiſe intended, then of the grant of the King, for
+<hi>transferre,</hi> that is, to transferre, is no other then
+<hi>concedere,</hi> that is, to grant. And I agree with <hi>Bracton</hi> in
+this, that the King cannot grant over this prerogative: but this poſition,
+doth no way conclude againſt the power of the Parliament, as our caſe
+is.</p>
+            <p>But here <hi>Mittons caſe</hi> in the fourth <hi>Rep.</hi>
+               <note place="margin">4. <hi>Rep. Mit<g ref="char:EOLhyphen"/>tons caſe.</hi>
+               </note> cited before to another
+pur<g ref="char:EOLhyphen"/>poſe, may be objected againſt me, where it is reſolved, that the
+Queene could not take away the grant of the Office of the Clerke of the
+Coun<g ref="char:EOLhyphen"/>tie Court from the Sheriffe: in which caſe, there is another caſe
+alſo cited to be adjudged by all the Judges of <hi>England, viz.</hi> that
+the grants of the cuſtodies of Goals of the Counties, by the King are voyde;
+and the reaſon that is given for both theſe Caſes, is, that the Sheriffe
+having theſe Offices appendent to his Office (as in truth they are) is by the
+Law reſponſible for all miſdemeanours done in thoſe Offices, and
+there<g ref="char:EOLhyphen"/>fore it is againſt all reaſon, that the grant of them ſhould be
+taken from him; but that he ſhould have power, to put in ſuch into thoſe
+Offices, for whom he ſhould anſwer. Now the force of the objection ſtands
+thus; if theſe Offices cannot be ſevered from the Sheriffe, becauſe that
+by this he ſhould be diſabled to performe the truſt repoſed in him, and
+yet ſhould be reſponſible for all miſdemeanours done in thoſe
+offices, which would be very unreaſonable: <hi>à fortiori,</hi> you
+ſhall not take away this pri<g ref="char:EOLhyphen"/>viledge from the King, for by this he ſhould
+be diſabled, either to pro<g ref="char:EOLhyphen"/>tect and defend his people, as by Law he is bound,
+or faithfully to diſ<g ref="char:EOLhyphen"/>charge this great truſt repoſed in him, as God
+requireth. To which I anſwer, that there is a great and wide difference
+betwixt the caſes; for firſt, in the caſe of the Sheriffe, the depriving
+him of the grant of theſe Offices, concernes onely his private intereſt,
+&amp; not the Common-weale; I meane, the Common-weale ſtands not in
+competition with the She<g ref="char:EOLhyphen"/>riffes right, as in our caſe; and therefore in this,
+the difference is great. But, which makes the caſes much more to differ: in
+the caſe of the She<g ref="char:EOLhyphen"/>riffe, there was no act or default in him, for which to
+deprive him of this benefit; and it is a rule in our Law, that <hi>Quod
+noſtrum eſt, ſine facto, ſive defectu noſtro, amitti, ſeu ad alium
+transferri, non poteſt;</hi> a man ſhall never be deveſted of his
+propertie, without his owne act, or default. But o<g ref="char:EOLhyphen"/>therwiſe it is here in the
+caſe of the King, for, if there be no act, yet I am certaine, that there is a
+defect or default in the King, in refuſing, in this time of imminent danger,
+to put the Kingdome, according to the ad<g ref="char:EOLhyphen"/>vice of his great Counſell, in a
+poſture of defence.</p>
+            <p>And it is no new thing, for a man to looſe his intereſt in his
+own de<g ref="char:EOLhyphen"/>fault: Upon this I might multiplie caſes; but I will put onely one or
+two familiar and ordinary caſes in our Books. If I make an eſtate for 
+<pb n="32" facs="tcp:112469:19"/> life, or yeares, to another, without condition
+expreſſed, yet the Leſſee hath not the eſtate ſo abſolute in him,
+but that by a tacite condition in Law, running with every ſuch particular
+eſtate, he may, by his own de<g ref="char:EOLhyphen"/>fault, looſe his eſtate; and therefore if
+he commit waſt, he ſubjects his eſtate to be evicted by the Leſſor;
+or if he aſſumeth to himſelfe, to grant a greater eſtate to another,
+then he himſelf hath, by this he forfeiteth his eſtate. But you will
+peradventure ſay, that this caſe doth not agree with the caſe in
+queſtion, for that the King hath an eſtate of inheritance in his Crowne,
+which goeth in ſucceſſion to his poſteritie, as well as the private
+intereſt of any Subject: This I agree, but under favour, he hath this
+committed to him in truſt; this tacite condition runneth along with it, that
+he uſe his regall power and authoritie, for the good of the pub<g ref="char:EOLhyphen"/>lique; or if
+he doth not, that then his great Counſell for breach of this truſt, and
+non-performance of this tacite condition (though that they cannot meddle with
+his ſacred perſon, by dethroning of him, or deve<g ref="char:EOLhyphen"/>ſting of him of the
+regall Scepter) may provide for the ſecuring of him and his Kingdome.</p>
+            <p>Againe, it is cleare by the Law, that miſuſer or non-uſer of
+any Fran<g ref="char:EOLhyphen"/>chiſes, Priviledges, or Offices, is a forfeiture of them; but
+eſpecially of any publique Offices, which concerne the adminiſtration of
+Juſtice, or the Common-wealth: and with this agreeth 5. <hi>E.</hi> 4. 8.
+<hi>H.</hi> 4. 20. <hi>E.</hi> 4. and my Lord <hi>Cooke</hi> in his Comment
+upon <hi>Littleton:</hi>
+               <note place="margin">5. <hi>E.</hi> 4. 5. 8. <hi>H.</hi>
+4. 18. 20. <hi>E.</hi> 4. 6. <hi>Inſtit.</hi> 233. a.</note> and many other
+Books. Now it is as cleare, that to be a King, is an Office, though it be the
+greateſt Office that any one, under God, can have: and what Office ſo much
+concerneth the adminiſtration of Juſtice, and the good of the
+Common-wealth, as this doth? and therefore, though this great office, be no
+more forfeitable, then it is grantable by the King: for I conceive that to be
+regularly true in the Law, that that which is not grantable, is not
+forfeitable: yet, God forbid, that his great Counſell, for his miſ<g ref="char:EOLhyphen"/>uſer,
+or non-uſer of his Kingly function, ſhould not have power, for the breach
+of this tacite condition, to apply themſelves, by all lawfull meanes, for the
+ſecuring of him and his Kingdome.</p>
+            <p>I ſhall compare this caſe, to one caſe onely, lately
+adjudged, <hi>viz. Hill.</hi> 17. <hi>Car.</hi> in the Kings Bench,
+<hi>Langhams caſe,</hi>
+               <note place="margin">
+                  <hi>Hill.</hi> 17. <hi>Car. in
+Banco Regis Langhams caſe</hi>
+               </note> where the caſe was thus;
+<hi>Langham</hi> a Citizen and free-man of <hi>London,</hi> was elected
+Alder<g ref="char:EOLhyphen"/>man of the Citie, and being called to take his Oath, refuſed, for which
+he was committed to priſon by the Court of Aldermen: upon which he prayed his
+<hi>Habeas corpus</hi> in the Kings Bench, and it was granted unto him: and
+upon the returne of the Writ, they did alledge, that they had this cuſtome,
+that if any man were elected Alderman of the Citie, and refuſed to take the
+Oath, that the Court of Aldermen had uſed, time out of minde, to impriſon
+the party ſo refuſing: and then they ſet forth, <hi>de</hi> 
+               <pb n="33" facs="tcp:112469:19"/> 
+               <hi>facto,</hi> how that <hi>Langham</hi> being a Citizen
+and free-man of <hi>London,</hi> was duely elected Alderman, of ſuch a Ward;
+and that he being called to take the Oath, refuſed, and that therefore he was
+committed by the Court of Aldermen: and the queſtion here was, whether the
+cuſtome to impriſon the body of a free-man, were a good cuſtome, or not?
+and it was reſolved upon ſolemne debate, by all the Judges of the Kings
+Bench, that the cuſtome, as this caſe is, is a good cuſtome: and this is
+the difference that was taken by them, that a cuſtome generally for a Court
+of Record to impriſon the body of a freeman, is no good cuſtom, for that it
+is againſt the libertie of the Subject, and <hi>Magna Charta,</hi> by which
+it is enacted, <hi>Quod nullus liber homo capiatur, aut impriſonetur,
+&amp;c.</hi> that is, that no free-man be taken or impriſoned;<note place="margin">9. <hi>H.</hi> 3. <hi>ca</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> but <hi>Per<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>legem terrae, &amp;c.</hi> by the Law
+of the Land. But a cuſtome, as in this caſe, for to impriſon the body of
+a freeman, for refuſing to take an office upon him, which is for the
+ſupport of government, and without which govern<g ref="char:EOLhyphen"/>ment cannot ſubſiſt,
+which by conſequence, ſtrikes at the very <hi>eſſe,</hi> and foundation
+of the Common-wealth; for that it cannot ſtand without government: ſuch a
+cuſtome was reſolved to be a good cuſtome. Now I ſhall compare this
+caſe, with the caſe in queſtion: it is here reſolved, that a cuſtome
+for to impriſon the body of a freeman, for refuſing to do ſuch a thing,
+which by conſequence reflects upon the Common wealth, and may indanger it,
+that this is a good cuſtome: now thus ſtands the para<g ref="char:EOLhyphen"/>lell: and as the rule
+of Law is, <hi>
+                  <g ref="char:V">Ʋ</g>bi eadem ratio, ibi idem jus,</hi> where there is the ſame
+reaſon, there ought to be the ſame Law. Now the ſame Law, that defends
+the Kings prerogative from violation, or ſeperation from the Crown, doth as
+ſtrongly, <hi>Et eodem jure,</hi> by the ſame right, defend the liberty and
+freedome of every private mans perſon from impriſonment; for, though the
+intereſt and priviledge of the King, doe farre tranſcend any ſingular and
+private perſons, being compared with them, yet they ſtand in equipage,
+<hi>In equali jure,</hi> that is, in equall right, being compared with the
+Common-weale; and therefore aſwell the intereſt of the King, as of his
+Subject, <hi>Debent cedere Republicae,</hi> ought to give way to the
+Common-wealth: And yet we ſee, that as a mans perſon, for the good of the
+Common-wealth, ſhall be ſet at large, and free from impriſon<g ref="char:EOLhyphen"/>ment, as it
+is reſolved in 36. <hi>&amp;</hi> 37. <hi>H.</hi> 8. <hi>Dyer.</hi>
+               <note place="margin">36. <hi>&amp;</hi> 37.
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Dyer. fo
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Trewynni<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Caſe.</hi>
+               </note> Where a man was ele<g ref="char:EOLhyphen"/>cted a Burges
+of Parliament, and being in execution was let at large, by a Writ of
+priviledge, and adjudged that his inlargement was lawfull, and that the
+Sheriffe was by this excuſed: So on the other ſide, a free<g ref="char:EOLhyphen"/>mans perſon,
+by a private cuſtome, contrary to <hi>Magna Charta,</hi> may for the good of
+the Common wealth be impriſoned: and without queſtion, the Subject may as
+juſtly demand of the Law, the freedome of his per<g ref="char:EOLhyphen"/>ſon from impriſonment,
+as the King, of his prerogative, from violati<g ref="char:EOLhyphen"/>on, <pb n="34" facs="tcp:112469:20"/> or
+ſeparation; and yet no priviledge, no, not of the perſon it ſelfe, of a
+common perſon, ought to be preferred before the common good: and by the
+ſame reaſon, not any priviledge of the King; for, though the King be much
+greater, and much to be preferred, before many thou<g ref="char:EOLhyphen"/>ſands, of individuall or
+particular perſons; yet, without queſtion, the univerſe or Common-wealth,
+is to be preferred before the King, or any intereſt or priviledge
+whatſoever of his: ſo that, for all theſe reaſons, I conceive, that the
+prerogative of the King, may, as this caſe is, be ſe<g ref="char:EOLhyphen"/>vered from him: and
+therefore, that the Parliament (admitting that they have taken it from his
+Majeſty) have done no more then what is warran<g ref="char:EOLhyphen"/>table by the Law.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> But now, if all that I have as yet
+ſaid, will not ſufficiently juſtifie the Parliament in their proceedings,
+concerning the <hi>Militia:</hi> I ſhall adde a third reaſon to prove, that
+what they have done, is lawfull: and that is this; what they declare to be Law,
+bindes the King, by an incluſive judgement, &amp; then their judgemennt,
+being the judgement of the King, and their Votes and Declarations of the Law,
+including the royall aſ<g ref="char:EOLhyphen"/>ſent and declaration: the King cannot afterwards by
+a ſubſequent De<g ref="char:EOLhyphen"/>claration countermand his own judgement, tacitly included
+in theirs: and by conſequence, the prerogative of the King ſuffers no
+violence; for <hi>Volenti non fit injuria,</hi> that is, a man that conſents
+to the doing of a thing, is not injured by the thing being done. Now that their
+De<g ref="char:EOLhyphen"/>clarations of the Law, includes the King, and ſhall binde him, I ſhall
+preſently prove it: Firſt, it is cleare, that the Parliament conſiſting
+of the three eſtates: <hi>viz.</hi> of the King, Lords, and Commons, are a
+Court; and it is as cleare, that they are the greateſt and higheſt Court in
+<hi>Eng<g ref="char:EOLhyphen"/>land;</hi> in which, Juſtice is adminiſtred by the King, in thoſe
+Worthies, unto his people, in the moſt high and tranſcendent way that can
+be: for the King doth not appeare with that ſplendour and brightneſſe of
+Ju<g ref="char:EOLhyphen"/>ſtice and integritie; neither is he ſo true and clearely repreſented
+to his people, in thoſe glorious rayes of his, in any Court of Juſtice
+whatſoe<g ref="char:EOLhyphen"/>ver, as he is, in his thrice great and honourable Court of
+Parliament. Now that it is a Court, and that the greateſt Court in
+<hi>England,</hi> in the 9. <hi>Rep. Epist. ibidem,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>p. Epiſt
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </note> my Lord
+<hi>Cooke</hi> ſaith, that among other appellations, it is called by the name
+<hi>Magnae Curiae, &amp;c.</hi> of the great Court. and in <hi>Pl. Com.
+fo.</hi> 388.<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> fo.</hi> 388.</note> the Parliament is a Court of thrice great
+honour and juſtice, &amp;c. and <hi>Bracton</hi> 34. <hi>a.</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fo.</hi> 34.
+a.</note> 
+               <hi>Rex habet &amp;c. Curiam ſuam,</hi> viz. <hi>Comi<g ref="char:EOLhyphen"/>tes Barones,
+&amp;c.</hi> the King hath his Court, to wit, Earles, Barons, &amp;c. and
+<hi>Fleta lib.</hi> 2. <hi>ca.</hi> 2.<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> li.</hi> 2. <hi>ca.</hi> 2.</note>
+               <hi>Habet etiam Rex Curiam ſuam, in Conſilio ſuo, in Parliamentis ſuis,
+&amp;c.</hi> the King hath his Court, in his Counſell, in his Parliaments,
+&amp;c. and <hi>Crompton</hi> in his <hi>Juriſdiction of Courts,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>p.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur. d'
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s. fo.</hi> 1. 2.</note> begins
+with the deſcription of the high Court of Parliament, giving it the
+preceden<g ref="char:EOLhyphen"/>cy <pb n="35" facs="tcp:112469:20"/> in act, as well as in words: where he ſaith,
+that the ſaid Court, is, <hi>L'treſhaulte Court d' Engliterre,</hi> that
+is, the thrice high Court of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> in which, ſaith he, the
+Prince himſelfe ſits in perſon, &amp;c. And I ſhall conclude this with
+<hi>Dyer,</hi> who ſaith,<note place="margin">
+                  <hi>Dyer fo.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> that this Court of
+Parlia<g ref="char:EOLhyphen"/>ment, is the higheſt C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, and hath more
+priviledges then any other Court of the Realme, &amp;c. And all this is made
+cleare, without further ſaying, by this, that no
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppeale lyeth from this Court; no
+reverſall of their judgement, but by the judgement of a ſubſequent
+Parliament.</p>
+            <p>Then this being admitted, that the Parliament is the greateſt
+Court in <hi>England,</hi> I ſhall argue thus: is the King by intendment of
+Law, pre<g ref="char:EOLhyphen"/>ſent in all his other inferiour Courts? as in truth he is, as 21.
+<hi>H.</hi> 7. and 2 <hi>&amp;</hi> 3. <hi>Eliz. Dyer.</hi>
+               <note place="margin">21. <hi>H.</hi> 7. <hi>f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 2. <hi>&amp;</hi> 3. <hi>Dyer fo.</hi> 1<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and many other books are: which certainly is the
+reaſon of the heavy judgement of theſe caſes, of killing of a Judge upon
+the Bench; that that is Treaſon: Or of drawing of a ſword to ſtrike a
+Juſtice ſitting in judgement: or of ſtriking of a Juror in the preſence
+of Juſtice, that theſe incurre the heavy judgement, of cutting off the
+right hand, perpetuall impriſonment, and the loſſe of lands, and goods,
+as the books are, of 22. <hi>E.</hi> 3. and <hi>F. Judgement,</hi> 174.<note place="margin">22. <hi>E.</hi> 3. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Fitz. Ju<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> 174.</note> or
+of killing of a Meſſenger of the King, that goeth to execute his
+commandment, that this likewiſe is Treaſon, as the book is, in 22.
+<hi>Aſſ.</hi>
+               <note place="margin">22. <hi>Aſſ. P<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </note> I ſay, I conceive, that the reaſon of
+theſe caſes is, for that he that offers violence to his Miniſter, when he
+is doing the ſervice of his great Maſter the King: offers violence to the
+King himſelf, whoſe perſon he repreſents, and who by in<g ref="char:EOLhyphen"/>tendment of
+Law, is there preſent giving judgement: and he that ſtrikes another in the
+preſence of Juſtice, doth it as in the preſence of the King himſelf:
+for that what the Judge, or Miniſter of the King doth, in pur<g ref="char:EOLhyphen"/>ſuance of the
+lawfull commands of the King, or in executing Juſtice, is the act or
+judgement of the King himſelf, according to that rule of Law, <hi>Qui per
+alium facit, per ſeipſum facere videtur:</hi> the act of a mans mi<g ref="char:EOLhyphen"/>niſter
+or ſervant, is the act of the Maſter himſelf. And this <hi>Bracton</hi>
+him<g ref="char:EOLhyphen"/>ſelf ſaith,<note place="margin">
+                  <hi>Bract. fo.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> treating of
+juriſdiction, delegated by the King, to inferiour Judges, and withall
+ſhewing and directing of thoſe Judges Delegates, to execute righteous
+judgement, ſaith he, <hi>Tale judicium diligit honor Re<g ref="char:EOLhyphen"/>gis, cujus p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſonam in judicio &amp; judicando repreſentant.</hi>
+Such a judgement the honour of the King delights in, whoſe perſon, in
+judgement, they repreſent. Why then, I ſay, is it thus, that the King by
+intendment of Law, is preſent in all his other Courts; and that what they do,
+or judge, is the act or judgement of the King himſelf? then certainly it
+muſt of neceſſity follow, (as indeed the Law is) that their judgement
+cannot be counte manded by the King: for this were to put <hi>Caeſar</hi>
+againſt <hi>Caeſar,</hi> the King againſt himſelf, which cannot be; for
+that when a Judge hath once given his judgement, he cannot afterwards
+countermand this judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <pb n="36" facs="tcp:112469:21"/> Again, is the King (as I have ſaid) by
+intendment of Law preſent in his inferiour Courts; and is their judgement his
+judgement, ſo that by this his Majeſtie is eſtopped and concluded by his
+own incluſive judge<g ref="char:EOLhyphen"/>ment, to countermand theirs. Then, I ſay, <hi>a
+fortiori,</hi> the King, though he diſunite himſelf from his Parliament,
+yet by intendment of Law, and virtually he is preſent in his high Court of
+Parliament: and therefore their judgement is his judgement: and what they
+declare to be Law, the King by an incluſive judgement declareth to be Law
+alſo. And if ſo, the concluſion muſt of neceſſity be, that the King
+can no more counter<g ref="char:EOLhyphen"/>mand their judgement, then he can the judgement of his
+Judges: for when <hi>Tranſit in rem judicatam,</hi> that is, when a thing is
+once adjudg<g ref="char:EOLhyphen"/>ed, it can never after be repealed by the ſame judgement (as I
+have ſaid) for that were a way to make judgement upon judgement, and ſo
+<hi>ad inſinitum, &amp; inſinitum in iure reprobatur:</hi> the Law
+deteſts infinites. And as the King himſelf, cannot repeal this judgement
+pronounced by his Parliament: ſo neither can he do it, by any other adviſe
+or judge<g ref="char:EOLhyphen"/>ment, power, or juriſdiction whatſoever, no not by the adviſe,
+though of all the Judges of <hi>England,</hi> for that there is no power or
+judgement whatſoever, but is inferiour to the judgement of the high Court of
+Par<g ref="char:EOLhyphen"/>liament; which is plain, by that, that no appeal lieth from them: and then
+the rule of Law binds up and ſuperſedeth all inferiour judgements: <hi>In
+preſentia maioris, ceſſat poteſtas minoris.</hi> In the preſence of
+the great, the power of the leſſe ceaſeth. And therefore according to
+this rule, it is reſolved in 21. <hi>Aſſ.</hi>
+               <note place="margin">
+                  <hi>Aſſ. Pl.</hi> 1.</note> that becauſe that the Kings
+Bench is Eier, and more then Eier: if a Commiſſion of Eier ſit in a
+County, and the Kings Bench cometh thither; the Eier ceaſeth. And this is the
+reaſon, that when it was enacted by the Statute of 28 <hi>E.</hi> 1.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 1. <hi>ca.</hi>
+5.</note> that the Kings Bench ſhould follow the King, that the power of the
+Steward of the Kings Houſhold, to determine Pleas of the Crown, did ceaſe:
+and that in Terme time, when the Kings Bench ſits, in the ſame County, all
+Com<g ref="char:EOLhyphen"/>miſſions ceaſe, as it is reſolved in the 10. <hi>Rep.</hi> and in
+the 9. <hi>Rep.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Rep. fo.</hi> 73. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Rep. fo.</hi> b.</note> And this is the reaſon likewiſe, that when the
+Pope exerciſed juriſdiction here in <hi>England,</hi> whatſoever the
+Ordinary of any Dioceſſe might do, that the Pope, who challenged to
+himſelf ſupreme juriſdiction, over all Ordinaries, uſed to do within
+this Realm, as ſupreme Ordinary: and ſo he uſed to make Viſitations,
+corrections, diſpenſations, and tolera<g ref="char:EOLhyphen"/>tions, within every Dioceſſe of
+this Realm, as the Ordinaries uſed: ſo he uſed to make Appropriations,
+without the Biſhop: and this was held good, and was never contradicted by the
+Biſhop, who was accounted but the inferiour Ordinary. Upon this ground, as it
+is ſaid by <hi>Man<g ref="char:EOLhyphen"/>wood Justice in Pl. Com.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Com. fo.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> a.</note> 
+               <hi>In preſentia
+maioris, ceſſat potestas mi<g ref="char:EOLhyphen"/>noris.</hi>
+            </p>
+            <p>
+               <pb n="37" facs="tcp:112469:21"/> So I ſay, in the caſe in queſtion, for
+that the high Court of Parlia<g ref="char:EOLhyphen"/>ment, are the moſt ſupreme juriſdiction in
+<hi>England;</hi> what they declare to be Law, cannot be countermanded, by the
+judgement of any power or Counſell whatſoever: becauſe that in the
+preſence of the moſt ſu<g ref="char:EOLhyphen"/>preme juriſdiction, the inferiour ceaſeth. I
+do not hereby intend, that the power of the Judges, in their ſeverall Courts,
+for the diſpenſation and execution of juſtice, ſhould ceaſe in the
+Terme, for that the Parlia<g ref="char:EOLhyphen"/>ment is ſitting at the ſame time, And the
+reaſon is obvious, for that theſe Courts have their proper and diſtinct
+juriſdictions, from the Parlia<g ref="char:EOLhyphen"/>ment; and therefore cannot be ſuperſeded
+by it. I intend by this onely that what the Parliament hath declared to be Law,
+cannot, as I have ſaid before, be countermanded by any other inferiour
+judgement what<g ref="char:EOLhyphen"/>ſoever: for that where the powers exerciſe the ſame
+juriſdiction, they cannot both ſtand together, but the greater will
+caſhere and ſuſpend the leſſe: ſo I ſay in our caſe.</p>
+            <p>But here it may be objected, that the King is <hi>fons
+Justitiae,</hi> that is, the fountain of Juſtice; and that he onely, as
+<hi>Bracton</hi> ſaith,<note place="margin">
+                  <hi>Bract. fo.</hi> 55. b.</note>
+               <hi>Ordinariam ha<g ref="char:EOLhyphen"/>bet iuriſdictionem, &amp; dignitatem &amp; poteſtatem
+ſuper omnes qui in regno ſuo ſunt, habet enim omnia iura in manu ſua,
+&amp;c.</hi> And a little after he ſaith, <hi>Ea quae iuriſdictionis
+ſunt, &amp;c. &amp; ea quae ſunt Justitie, &amp;c. annexa, ad nul<g ref="char:EOLhyphen"/>lum
+pertinent, niſi ad Coronam &amp; dignitatem Regiam:</hi> that is, thoſe
+things which appertain to juriſdiction, and juſtice, belong to no body, but
+the Crown, and royall dignity. And as all juſtice and juriſdiction is
+pri<g ref="char:EOLhyphen"/>marily and originally in the King, ſo they cannot be exerciſed by any
+other, except that they be firſt delegated to them by the King; And ſo
+ſaith <hi>Bracton</hi> a little after, <hi>Juriſdictiones, &amp;c. non
+poſſunt à privata perſo<g ref="char:EOLhyphen"/>na poſſideri, nec uſus, nec executio
+iuris, niſi hoc datum fuorit ei deſuper:</hi> that is, no juriſdiction,
+nor execution of the Law, can be exerciſed by any private perſon, except
+that this power be firſt given unto him from the King. So <hi>Bracton</hi>
+treating of juriſdiction, ſaith;<note place="margin">
+                  <hi>Bract. fo.</hi> 107.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Videndum, &amp;c. quis
+primo &amp; principaliter poſſit &amp; debet iudicare:</hi> that is, let us
+ſee, who firſt, and principally, may, and ought to judge. And then he
+anſwer<g ref="char:EOLhyphen"/>eth, <hi>Sciendum, quod ipſe Rex, &amp; non alius, ſi ſolus ad
+hoc ſufficere poſſit; eum ad hoc virtute ſacramenti teneatur
+aſtrictus:</hi> that is, we muſt know, that the King onely, and no other,
+if he alone may ſuffice: For that he is bound to do it, by vertue of his
+Oath. And after in the next Chapter ſpeaking of juriſdiction delegated, he
+ſaith,<note place="margin">
+                  <hi>Bract fo.</hi> 108. a</note> 
+               <hi>Si ipſe
+Dominus Rex ad ſin<g ref="char:EOLhyphen"/>gulas cauſas terminandas, non ſufficiat, ut levior
+ſit illi labor, &amp;c.</hi> he may, ſaith he, <hi>Conſtituere
+Justiciarios, &amp;c. quibus referantur tam quaeſtiones ſuper dubiis, quam
+quaerimoniae ſuper iniuriis, &amp;c.</hi> that is, if the King a<g ref="char:EOLhyphen"/>lone cannot
+ſuffiſe to determine all cauſes, that his labour may be the more eaſie,
+he may conſtitute Juſtices, to whom, as well doubts in Law 
+<pb n="38" facs="tcp:112469:22"/> may be referred, as complaints, upon injuries. And in
+purſuance of this, the King, not poſſibly ſuffi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to exerciſe all juriſdiction himſelf, hath in
+all ages, delegated power and juriſdiction to a certain number of men; and
+hath conſtituted them Judges, and diſpenſers of the Law under his
+Majeſtie, and in his right an <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+to his people.</p>
+            <p>Now all this being admitted, as in truth it cannot be denied, the
+force of the objection ſtands thus: is it ſo that no juriſdiction can be
+exerci<g ref="char:EOLhyphen"/>ſed by any, except that it be firſt delegated to them by the King,
+and that the King hath conſtituted certain perſons, to be his Judges of the
+Law? why then it lieth not in the power of the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, to
+declare what is Law, and what not. Firſt, becauſe that they are not the
+proper Judges of it. And ſecondly, becauſe that they have no ſuch power
+given unto them by the King: for what power they have it is derived by their
+Writ, by which the King calleth them to Parlia<g ref="char:EOLhyphen"/>ment: and this onely requireth
+their preſence, <hi>Super dictis negotiis tra<g ref="char:EOLhyphen"/>ctaturis:</hi> and
+<hi>tractare</hi> is onely to treat of or debate the Law, not to de<g ref="char:EOLhyphen"/>clare, or
+give judgement what the Law is; Beſides, this word <hi>tractare</hi> is
+contained onely in the Writ by which the Lords are ſummoned to Parliament,
+and not in the Writ of the Commons, for by that they are called onely (as I
+remember the Writ is) <hi>ad faciendum &amp; conſentiendum,</hi> to do, and
+agree; why then they have no ſuch power to intermeddle with the debating of
+the Law, much leſſe to declare what the Law is.</p>
+            <p>To which I anſwer: That the two Houſes of Parliament conjoyned
+(for I ſpeak not of the power of the Houſe of Commons diſtinct, and by it
+ſelf) may not onely declare what the Law is, but are the beſt and moſt
+proper Judges of it. Are not they the <hi>ne plus ultra;</hi> that the Subject
+hath for redreſſe in matter of Law? are not they (as common experi<g ref="char:EOLhyphen"/>ence
+teacheth us) the ſupreme Seat of Judicature? and do not they ex<g ref="char:EOLhyphen"/>erciſe a
+ſuperintendent juriſdiction over all other Courts? and have not they power
+by a Writ of Error, brought before them, to reverſe Judgements erroniouſly
+given in other Courts? Without doubt they have; witneſſe that caſe of the
+Ship-money: which Judgement could not poſſibly have been reverſed, but by
+the Parliament; who upon debate, declared that Judgement to be againſt the
+Law; and how miſerable this Common-wealth had been: if they had not had this
+power, the lamen<g ref="char:EOLhyphen"/>table ſucceſſe, of deveſting of the Subjects property,
+without his con<g ref="char:EOLhyphen"/>ſent, by that damnable judgement, contrary to all Law, would
+have in ſhort time, been manifeſted to the whole world. But to this it may
+be ſaid, that in theſe caſes, the Judges adviſe, who ſit as
+aſſiſtants in Parlia<g ref="char:EOLhyphen"/>ment, is demanded: and that in ſuch caſe, the
+King, by his Judges, doth declare what the Law is. To this I anſwer, that
+becauſe the Parliament may demand the adviſe of the Judges, who ſit there
+to that intent, will <pb n="39" facs="tcp:112469:22"/> it therefore follow that they are
+tied to it? or having demanded their adviſe: muſt the conſequence be,
+that they are bound to follow it? with<g ref="char:EOLhyphen"/>out queſtion nothing leſſe: for
+this were to tie my judgement to ano<g ref="char:EOLhyphen"/>ther mans principles, which ought not to
+be. And it were abſurd for to think, that the Parliament, who are the
+ſupreme ſeat of Judicature, ſhould be tied to ſubſcribe to the
+judgement of any inferiour power whatſoever. And now I ſhall put you one
+caſe: <hi>poſito,</hi> that all the Judges of <hi>England,</hi>
+aſſembled together in the Chequer Chamber to give judge<g ref="char:EOLhyphen"/>ment in a point of
+Law, ſhould all concurre in their judgements, and ſhould give judgement
+accordingly; and after in a Writ of Error brought in Parliament, this judgement
+ſhould be reverſed: doe not the Parliament onely, in this caſe, declare
+what the Law is? Without que<g ref="char:EOLhyphen"/>ſtion they doe; for, I ſuppoſe, that there
+is none ſo ſtupid, as to thinke, that the Judges advice or judgement ought
+or can be received in this caſe; for this were, upon the matter, to appeale
+<hi>à Caeſare, ad Caeſarem,</hi> and to reverſe that Judgement
+(though not by the ſame power) yet by the ſame adviſe that gave it:
+which, as I conceive, by the Law ought not to be.</p>
+            <p>But here peradventure it will be againe objected, that no Writ of
+er<g ref="char:EOLhyphen"/>ror can be brought in Parliament, but that the King firſt ſignes to it: 
+<note place="margin">1. <hi>H.</hi> 7. 19:
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and this is a conſent by
+the King, &amp; a giving of them power to proceed and declare what the Law is:
+but in our caſe there is no ſuch thing, for here is nothing judicially
+before them, by which to authoriſe them to give any ſuch judgement, and
+therefore they have no ſuch power to declare what the Law is, in this caſe;
+and if they doe, their proceeding is extrajudiciall and arbitrary.</p>
+            <p>To this I anſwer, that true it is, that they cannot, nor ought
+not to take notice of any thing which concerneth any private perſons, or
+their intereſt; neither can they, in any ſuch caſe, give Judgement, or
+declare what the Law is, except they have ſomething judicially pending before
+them, upon which to ground their judgement; but otherwiſe it is where it
+concerneth the Common-wealth, for there, I conceive, under favour,
+(eſpecially, as in this caſe, in time of imminent danger) they are not tied
+to any legall way of proceeding, but they may, and are bound, as well by their
+Oaths of Alleageance, Supremacy, and their late Prote<g ref="char:EOLhyphen"/>ſtation, as by their
+Writ, by which they are called to Parliament, to take notice of all things,
+which may be obnoxious and prejudicall to the Common-wealth: and to debate,
+determine, and declare the Law con<g ref="char:EOLhyphen"/>cerning them, though that they have nothing
+judicially before them; for if they ſhould, in this caſe, expect a
+complainant, the Common<g ref="char:EOLhyphen"/>wealth might periſh, before that they could yeeld any
+ayde or aſſiſtance, for the ſecuring of it. Now by their Oaths, they
+are bound to defend <pb n="40" facs="tcp:112469:23"/> the King and Kingdome (as I have
+before ſaid) and by their Writ they have power and authoritie given them,
+<hi>De imminentibus periculis tracta<g ref="char:EOLhyphen"/>re:</hi> and <hi>tractare,</hi> doth not
+onely ſignifie to handle, treate of, or debate; but likewiſe it
+ſignifieth, as the learned obſerve, to order, to governe, to write of, or
+to deſcribe; and, without queſtion, theſe words have weight, ſence, and
+power enough in them, not onely to inable them to debate what the Law is, but
+alſo to declare what it is, after that it is debated: ſo that I conceive,
+by this it is cleare, that the Parliament doe not exer<g ref="char:EOLhyphen"/>ciſe, practiſe, or
+endeavour any arbitrary way of proceeding. And the difference (as I concelve)
+upon the whole matter, will be this; that the two Houſes of Parliament cannot
+(as I have ſhewed before) make a new Law, or alter the old Law, without the
+conſent of the King, and this by Act of Parliament; but they may declare what
+the Common Law is, and this ſhall be obliging to his Majeſtie; for
+otherwiſe, this great Court, which ſo farre tranſcends all others, in
+other things, ſhould be leſſe in power, in this particular, then any
+other; Which ought not to be conceived, or imagined.</p>
+            <p>Now this being Law, which I have delivered, as I conceive it is;
+from hence theſe Concluſions may neceſſarily, and by conſequence, be
+dedu<g ref="char:EOLhyphen"/>ced; Firſt, that the declaration of the Law, to be otherwiſe by the
+Pro<g ref="char:EOLhyphen"/>clamation, or other Declaration of the King, doth not change the Law; for
+that it is a Rule in the Law, that the King can neither create a Law, nor alter
+the Law, by his Patent or Proclamation: And with this a<g ref="char:EOLhyphen"/>greeth 49.
+<hi>Aſſ.</hi> 37. <hi>H.</hi> 8. <hi>Br. Patents</hi> 100. 11. <hi>H.</hi>
+4. 10. <hi>H.</hi> 7. 5. <hi>Rep.</hi>
+               <note place="margin">49. <hi>Aſſ.
+Pl.</hi> 8. 37. <hi>H.</hi> 8. <hi>Br. Pat.</hi> 100. 11. <hi>H.</hi> 4. 37.
+10. <hi>H.</hi> 7. 23. 5. <hi>Rep. fo.</hi> 55.</note> and many other Books.
+Secondly, Hence a good argument may be de<g ref="char:EOLhyphen"/>duced, to prove the Commiſſion of
+Array, at this time illegall; for that the King, with the advice of his great
+Counſell the Parliament, hath by a tacite and incluſive conſent (as I
+have made it good before) eſtabliſhed the <hi>Militia;</hi> why then
+clearely it lieth not in his Majeſties power, with<g ref="char:EOLhyphen"/>out their conſent, to
+countermand this by any other Commiſſion; for the Rule of Law is, that
+<hi>Eodem modo, quo, quid conſtetuitur, diſſolvitur,</hi> that is, every
+thing ought to be diſſolved by a matter of as high nature, as it was
+created: and that is the reaſon, that an Act of Parliament, can<g ref="char:EOLhyphen"/>not be
+repealed but by an Act of Parliament; for that no power or ju<g ref="char:EOLhyphen"/>riſdiction
+whatſoever, is ſo great as it ſelfe: and it is without queſtion, that
+the Kings power or authoritie, by it ſelfe, is not of ſo high and
+ex<g ref="char:EOLhyphen"/>cellent a nature, as it is joyned with his Parliament: Wherefore I doe
+conceive, for this reaſon, that the Commiſſion of Array is abſolutely
+unlawfull, and therefore ought not to be ſubmitted unto. Thirdly, and
+laſtly, Hence may be concluded, that the Kings declaration of the Law, to be
+contrary to what the Parliament have declared the Law to be, is <hi>Coram non
+Judice;</hi> that is, by one that hath not juriſdiction of the cauſe. 
+<pb n="41" facs="tcp:112469:23"/> Firſt, Becauſe (as I have ſaid) that the King
+himſelfe cannot declare the Law to be contrary to their judgement, for that
+his Majeſties judgement is ſuperſeded, and bound up in theirs: and
+ſecondly, For that he can<g ref="char:EOLhyphen"/>not contradict their judgement, by any other advice
+or judgement, for that, that advice or judgement is inferiour to the Court of
+Parliament; and therefore in their preſence, as to this purpoſe, ought to
+ceaſe. And I ſhall compare this caſe, to one caſe onely, which is in
+the 10. <hi>Rep.</hi> in the caſe of the <hi>Marſhallſea,</hi>
+               <note place="margin">10.
+<hi>Rep. fo.</hi> 7<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>the caſe
+of Marſhallſea</hi>
+               </note> where the caſe is thus; The Sheriffe who is
+preſcribed by the Law to hold his Tourne within the Moneth after Mich.
+&amp;c. held his Tourne after the Moneth, and tooke an indictment of Robbery at
+the ſame Tourne, and the Indictment being removed by a <hi>Cerciorari</hi>
+into the Kings Bench, by the advice of all the Juſtices, the partie ſo
+indicted, was diſcharged, for that the Indictment was utterly voyde, and
+<hi>Coram non Judice,</hi> becauſe at this time the Sheriffe had no
+authoritie to hold his Court: ſo I ſay, in this caſe, the Declaration or
+Proclamation of the King, is <hi>Coram non Judice,</hi> for that though the
+King properly, and onely, ought to declare the Law, by the advice of his
+Judges, at another time, yet at this time he cannot, for that their judgement
+is eſtopped and ſuperſeded, by the ſuperintendency of the high Court of
+Parliament: Then the Law being thus, this juſtifieth the proceedings of
+Parliament, in puniſhing of ſuch, who dare adventure, againſt Law, to
+execute the Commiſſion of Array, or to proclaime, or declare any thing in
+his Majeſties name, againſt his owne judgement, and the judgement of his
+Parliament; for the Rule of Law is; <hi>Extra ter<g ref="char:EOLhyphen"/>ritorium jus dicenti, non
+paretur, impunè;</hi> he that obeys the command of any power, out of its
+juriſdiction, ſhall be puniſhed for it: So I con<g ref="char:EOLhyphen"/>clude this point alſo,
+and conceive, that for this reaſon likewiſe, the Parliament hath done no
+more then what is warranted by the Lawes of the Land.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, and laſtly, I hold that
+the Parliament have done no more then what is warrantable by Law, upon this
+ground (which ought to be the <hi>Baſis</hi> and end of all Law)
+<hi>viz.</hi> the common good and ſafetie: but of this onely a word, for that
+I have touched it before. That Law which is above all Law, &amp; to which all
+Law ought to ſubſcribe, is <hi>Salus Populi,</hi> the ſafetie of the
+people. True it is, that the Law was made to defend every mans private
+intereſt, as well as the Republique, but pri<g ref="char:EOLhyphen"/>marily and principally the
+Republique: it is the Rule of Law (as I have ſhewed before) <hi>Quod bonum
+publicum, privato anteferri debet;</hi> that the publique good ought to be
+preferred before the private. And againe, we have another Rule, <hi>Quod magis
+dignum, trahit ad ſe quod eſt minus dig<g ref="char:EOLhyphen"/>num,</hi> that the more worthy doth
+draw to it the leſſe worthy: and with<g ref="char:EOLhyphen"/>out controverſie, the <hi>magis
+dignum,</hi> the more worthy, is the Common<g ref="char:EOLhyphen"/>wealth; <pb n="42" facs="tcp:112469:24"/> why
+then the <hi>minus dignum,</hi> the leſſe worthy, which is every mans
+private concernment, muſt ſubſcribe to that.</p>
+            <p>And the reaſon, wherefore the good and ſafotio of the
+Republi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>que, ought principally and
+in the firſt place to be maintained, and therefore is ſtyled <hi>Suprema
+Lex,</hi> that is, the moſt ſupream<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Law, or, if you will, a Law above all Lawes, is, for that as in
+the naturall body, if the body be in health, the members muſt needs be well
+alſo, and if the body be ſicke, the members muſt needs ſympathiſe
+with it<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo it is in the body
+politique, if the body be well, the members fare all the better for it, if the
+body be in diſtemper, the members cannot but be diſtempered alſo; ſo
+the happineſſe, or miſery, of every individuall perſon, h<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>geth upon the good or ill
+ſucceſſe of the Common-wealth and therefore the good of the Common-wealth
+ought to have the firſt and chie<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e endeavour, of every true and faithfull member of it.</p>
+            <p>In 18. <hi>E.</hi> 2. which you ſhall ſind cited in the 10.
+<hi>Rep. Keighleyes C.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. <hi>E.</hi> 2. 27. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.
+<hi>Rep.</hi> 139. b. <hi>Keighleyes C.</hi>
+               </note> a man brought an Action
+upon the caſe, againſt another, and the ground of the Action was, for
+ſuffering of a Wall of the Sea, that the Defen<g ref="char:EOLhyphen"/>dant was bound by
+preſcription to repair, when need ſhould be,
+<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re<g ref="char:EOLhyphen"/>paired, ſo that for default
+of reparation, the water entred, and ſurroun<g ref="char:EOLhyphen"/>ded the lands of the Plaintiffe;
+The Defendant traverſed the preſcrip<g ref="char:EOLhyphen"/>tion, upon which they were at
+iſſue, and it was found for the Plaintiffe; and that there was a default in
+the wall, for not repairing, for which the Plaintiffe recovered his Damages,
+and a Writ was awarded to the She<g ref="char:EOLhyphen"/>riffe, to diſtrain the Defendant to repair
+the wall, where need was, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and
+d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſault: Upon which my Lord
+<hi>Cooke</hi> maketh a ſpeciall obſeruation; <hi>Not a</hi> Reader,
+ſaith he, this judgement, and the reaſon of it, is, <hi>pro bono
+publico,</hi> for the common good. For, ſaith he, <hi>Salus<g ref="char:punc">▪</g> populi,
+eſt ſuprema Lex:</hi> the ſafetie of the people is the moſt ſupreme
+Law: and therefore it is part of the judgement, in this Action, that the
+Defendant ſhould be reſtrained to repair the wall. As if he had ſaid,
+this Action is brought by the Plaintiffe, for his ſpeciall da<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ification onely, and this he hath
+reſtored to him by the judgement: (But yet note, for that it concerneth the
+weal-publique, the Judges conſidering themſelves to be tied both in Law and
+conſcience, to provide for the ſecuring of the ſame, made this part of
+their judgement likewiſe, that the Deſendant be compelled to repair the
+ſame; leſt in defect of this the Common-wealth ſhould ſuffer alſo.
+Here you may ſee, the car<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that
+the Judges then had of the com<g ref="char:EOLhyphen"/>mon good: It were well that this were pondered
+on in thoſe dayes, in which I doubt, men are too ready and prone to prefer
+their own private concernment in their indeavours, I mean their honou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, before the pub<g ref="char:EOLhyphen"/>lique ſafetie.</p>
+            <p>In <hi>Davis Reports</hi>
+               <note place="margin">
+                  <hi>Da. Rep. fo.</hi>
+32. b.</note> it is <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <pb n="43" facs="tcp:112469:24"/> to the intereſt of one particular perſon, &amp; yet
+reaſonable, where it is for the benefit of the Common-wealth in generall; as
+a cuſtome to make Balwarks upon the land of another for the defence of the
+Realm, 36. <hi>H.</hi> 8. <hi>Dyer,</hi> and to raze houſes <hi>in publico
+incendi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> in a common fire,
+29. <hi>H.</hi> 8. <hi>Dyer,</hi> (theſe caſes I have remembred before)
+ſo to turn the plough up<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the
+head-land of another, in favour of husbandry, 21. <hi>E.</hi> 4. and to drie
+Nets upon the land of another, in favour of fiſhing, and na<g ref="char:EOLhyphen"/>vigation, 8.
+<hi>E.</hi> 4<note place="margin">36. <hi>H.</hi> 8. <hi>Dyer fo.</hi> 60<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 29. <hi>H.</hi> 8. <hi>Dyer fo</hi>
+36<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 21. <hi>E.</hi> 4. 28<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8. <hi>E.</hi> 4. 18.</note> But
+ſaith the book, a cuſtome which is contrary to the publique good, which is
+the ſcope and generall end of all Laws (for <hi>ſalus populi, ſuprema
+lex</hi>) or injurious and prejudiciall to the mul<g ref="char:EOLhyphen"/>titude, and beneficiall
+onely to ſome particular perſon, ſuch a cuſtome is repugnant to the Law
+of reaſon, which is above all poſitive Laws, &amp;c. Here note, that it is
+ſaid, that the Law of reaſon is above all poſitive Laws: and no doubt but
+it is, for that Law, which is againſt reaſon, is rather a myſtery of
+iniquitie, then Law: and in truth, it is no Law, which is not grounded upon the
+Law of reaſon. For as ſome will have it, the word <hi>(Lex)</hi> is
+derived, <hi>à ligando, quoniam ad obſervandas leges, homines
+ligat:</hi> and no queſtion a Law, which is unreaſonable, doth not oblige
+men to obedience: ſo that it is no Law, if it be not warranted by the Law of
+reaſon. Now to apply this to the caſe in queſtion; the King, by his
+Prerogative, ought to have the ſole diſpoſing of the <hi>Militia:</hi>
+the kingdom being in imminent danger, the King refuſeth to ſettle it, by
+the adviſe of his great Counſell, for the ſecuring of himſelf and his
+people; Now the doubt is, whether the Parliament may without the conſent of
+the King, aſſume this power to themſelves, for the ſecuring of his
+Majeſtie, and his kingdom? or whether they ought to ſubſcribe to the
+Prerogative of the King, though it be to the apparent deſtructi<g ref="char:EOLhyphen"/>on of the
+Common-weal; which of theſe two is the reaſonable Law, is the queſtion?
+Why no doubt, <hi>Salus populi,</hi> the ſafetie of the people: for theſe
+reaſons. Firſt, for that the Law was made for the people, and not the
+people for the Law. And ſecondly, for that the whole ought to be preferred
+before any part: wherefore I conclude that it is <hi>Suprema Lex;</hi> the
+moſt ſupreme Law, and therefore the Prerogative of the King ought to give
+way to this; and not this, to the Prerogative of the King: for if you
+preſerve and maintain the common good, you preſerve and maintain the Kings
+Majeſtie, his Prerogative, your Laws, and your ſelves; and if you do
+otherwiſe, you deſtroy all. And therefore I conclude all with this, <hi>Non
+ſolum conveniens eſt, ſed neceſſe eſt, ut ſalus populi, ſit
+ſuprema Lex:</hi> That it is not onely convenient, but ne<g ref="char:EOLhyphen"/>neſſary, that
+the ſafety of the people, ſhould be the moſt ſupreme Law: And therefore
+the Parliament have done that which is agreeable both to Law and reaſon, in
+preferring of the publique ſafetie.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
